@@ -1,0 +1,22 @@
+brew update
+brew install rbenv
+brew install nodejs
+
+# From https://stackoverflow.com/questions/29932409/bundle-command-not-found-mac
+echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+source ~/.bash_profile
+echo $PATH.  # .rbenv/shims should be BEFORE any other directory where the shell might be looking for Ruby
+which ruby
+rbenv install 2.6.4  # rbenv install -l to see version
+rbenv shell 2.6.4
+rbenv rehash
+ruby -v
+gem install bundler
+bundle clean
+gem install json -v '1.8.5' --source 'https://rubygems.org/'
+gem install nokogiri -- --with-xml2-include=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/libxml2 --use-system-libraries
+bundle update html-pipeline
+bundle install
+(brew install coreutils?)
+
+bundle exec jekyll serve
