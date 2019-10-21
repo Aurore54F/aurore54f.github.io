@@ -7,6 +7,7 @@ date: December 2019
 year: 2019
 authors: <b>Aurore Fass</b>, Michael Backes, and Ben Stock
 venue: 'Annual Computer Security Applications Conference (ACSAC)'
+acceptance: 23% (60/266 full research papers)
 paperurl: 'https://swag.cispa.saarland/papers/fass2019jstap.pdf'
 code: 'https://github.com/Aurore54F/JStap'
 artifact: 'Artifacts Evaluated--Reusable'

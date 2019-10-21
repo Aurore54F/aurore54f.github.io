@@ -7,6 +7,7 @@ date: November 2019
 year: 2019
 authors: <b>Aurore Fass</b>, Michael Backes, and Ben Stock
 venue: 'ACM CCS'
+acceptance: 14% (32/225 full research papers, February cycle)
 paperurl: 'https://swag.cispa.saarland/papers/fass2019hidenoseek.pdf'
 citation:
 ---
