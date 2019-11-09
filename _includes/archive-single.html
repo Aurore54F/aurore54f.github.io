@@ -48,6 +48,9 @@
           {% if post.code %}
             <a href="{{ post.code }}" target="_blank" class="btn btn--success" role="button">Code</a>
           {% endif %}
+          {% if post.teaser %}
+            <a href="{{ post.teaser }}" target="_blank" class="btn btn--success" role="button">1 min video</a>
+          {% endif %}
           <br><small>Acceptance rate: {{ post.acceptance }}</small>
           {% if post.artifact %}
             <!--<button type = "button" class = "btn btn--warning">{{ post.artifact }}</button>-->
