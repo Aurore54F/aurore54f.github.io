@@ -48,6 +48,9 @@
           {% if post.code %}
             <a href="{{ post.code }}" target="_blank" class="btn btn--success" role="button">Code</a>
           {% endif %}
+          {% if post.slideurl %}
+            <a href="{{ post.slideurl }}" target="_blank" class="btn btn--success" role="button">Slides</a>
+          {% endif %}
           {% if post.teaser %}
             <a href="{{ post.teaser }}" target="_blank" class="btn btn--success" role="button">1 min video</a>
           {% endif %}
