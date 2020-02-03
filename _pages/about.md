@@ -19,9 +19,11 @@ Finally, I am happy to supervise bachelor and master students in the scope of re
 
 What’s New?
 ======
+- _2-feb-20_: Just released an update of JStap on [GitHub](https://github.com/Aurore54F/JStap). Have fun!
+- _6-dec-19_:  Very excited to be part of RuhrSec 2020 to present HideNoSeek! See you in May in Bochum.
 - _8-nov-19_: The source code of HideNoSeek is now partially  [online](https://github.com/Aurore54F/HideNoSeek). Have fun and see you on 14-nov-19 in London!  
 In the meantime, have a look at our [1 minute video](https://twitter.com/CISPA/status/1192702039605858304), also available in [French and German](https://www.instagram.com/p/B4kX7FdIrsp/).
 - _6-nov-19_: Delighted to be part of Saarland University's [program of excellence](http://exzellenz.uni-saarland.de/)! Looking forward to networking, coaching, and mentoring.
 - _25-sep-19_: The source code of JStap is now [online](https://github.com/Aurore54F/JStap) with the ACSAC "Artifacts Evaluated – Reusable" badge. Have fun!
-- _23-aug-19_: Our paper ["JStap: A Static Pre-Filter for Malicious JavaScript Detection"](https://swag.cispa.saarland/papers/fass2019jstap.pdf) got accepted at ACSAC 2019! See you in San Juan.
-- _23-jun-19_: Our paper ["HideNoSeek: Camouflaging Malicious JavaScript in Benign ASTs"](https://swag.cispa.saarland/papers/fass2019hidenoseek.pdf) got accepted at CCS 2019! See you in London.
+- _23-aug-19_: Our paper ["JStap: A Static Pre-Filter for Malicious JavaScript Detection"](https://swag.cispa.saarland/papers/fass2019jstap.pdf) got accepted at ACSAC 2019! See you in December in San Juan.
+- _23-jun-19_: Our paper ["HideNoSeek: Camouflaging Malicious JavaScript in Benign ASTs"](https://swag.cispa.saarland/papers/fass2019hidenoseek.pdf) got accepted at CCS 2019! See you in November in London.
