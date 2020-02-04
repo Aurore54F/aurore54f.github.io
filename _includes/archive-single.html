@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p><span style="color:rgb(0, 119, 181); font-size:22px"><b>{{title}}</b></span>
           <br>{{ post.authors }}
-          <br>In <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <br>In <i>{{ post.venue }}</i>, {{ post.when }}
           <br><a href="{{ post.paperurl }}" target="_blank" class="btn btn--success" role="button">Paper</a>
           {% if post.code %}
             <a href="{{ post.code }}" target="_blank" class="btn btn--success" role="button">Code</a>

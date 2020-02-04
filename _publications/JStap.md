@@ -3,6 +3,7 @@ title: "JStap: A Static Pre-Filter for Malicious JavaScript Detection"
 collection: publications
 permalink:
 excerpt: ''
+when: December 2019
 date: December 2019
 year: 2019
 authors: <b>Aurore Fass</b>, Michael Backes, and Ben Stock

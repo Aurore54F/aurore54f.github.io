@@ -1,9 +1,9 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"> 
 
-          <p><span style="color:rgb(0, 119, 181); font-size:20px"><b>{{post.title}}</b></span>
+          <p><span style="color:rgb(0, 119, 181); font-size:20px"><b>{{post.title}}</b></span> {{post.comment}}
           <br>{{ post.authors }}
-          <br>Talk at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <br>Talk at <i>{{ post.venue }}</i>, {{ post.when }}
            {% if post.slideurl %}
             <br><a href="{{ post.slideurl }}" target="_blank" class="btn btn--success" role="button">Slides</a>
           {% endif %}

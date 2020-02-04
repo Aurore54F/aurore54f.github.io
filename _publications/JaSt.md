@@ -3,6 +3,7 @@ title: "JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript"
 collection: publications
 permalink:
 excerpt: ''
+when: June 2018
 date: June 2018
 year: 2018
 authors: <b>Aurore Fass</b>, Robert Krawczyk, Michael Backes, and Ben Stock

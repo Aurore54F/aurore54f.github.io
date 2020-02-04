@@ -3,6 +3,7 @@ title: "HideNoSeek: Camouflaging Malicious JavaScript in Benign ASTs"
 collection: publications
 permalink:
 excerpt: ''
+when: November 2019
 date: November 2019
 year: 2019
 authors: <b>Aurore Fass</b>, Michael Backes, and Ben Stock
