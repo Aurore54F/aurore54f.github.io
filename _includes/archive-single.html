@@ -54,6 +54,9 @@
           {% if post.teaser %}
             <a href="{{ post.teaser }}" target="_blank" class="btn btn--success" role="button">1 min video</a>
           {% endif %}
+          {% if post.recording %}
+            <a href="{{ post.recording }}" target="_blank" class="btn btn--success" role="button">Download recording</a>
+          {% endif %}
           <br><small>Acceptance rate: {{ post.acceptance }}</small>
           {% if post.artifact %}
             <!--<button type = "button" class = "btn btn--warning">{{ post.artifact }}</button>-->
