@@ -12,6 +12,7 @@ acceptance: 23% (60/266 full research papers)
 paperurl: 'https://swag.cispa.saarland/papers/fass2019jstap.pdf'
 code: 'https://github.com/Aurore54F/JStap'
 artifact: 'Artifacts Evaluated--Reusable'
+slideurl: 'https://www.acsac.org/2019/program/final/1/123.pdf'
 citation:
 ---
 Given the success of the Web platform, attackers have abused its main programming language, namely JavaScript, to mount different types of attacks on their victims. Due to the large volume of such malicious scripts, detection systems rely on static analyses to quickly process the vast majority of samples. These static approaches are not infallible though and lead to misclassifications. Also, they lack semantic information to go beyond purely syntactic approaches. In this paper, we propose JStap, a modular static JavaScript detection system, which extends the detection capability of existing lexical and AST-based pipelines by also leveraging control and data flow information. Our detector is composed of ten modules, including five different ways of abstracting code, with differing levels of context and semantic information, and two ways of extracting features. Based on the frequency of these specific patterns, we train a random forest classifier for each module.
