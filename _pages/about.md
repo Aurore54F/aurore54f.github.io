@@ -19,6 +19,7 @@ Finally, I am happy to supervise bachelor and master students in the scope of re
 
 What’s New?
 ======
+- _30-mar-20_: Just released the clone detector part of HideNoSeek on [GitHub](https://github.com/Aurore54F/HideNoSeek). Have fun!
 - _6-feb-20_: HideNoSeek ACM CCS recording is now available for [download](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3319535.3345656&file=p1899-fass.webm&download=true)!
 - _2-feb-20_: Just released an update of JStap on [GitHub](https://github.com/Aurore54F/JStap). Have fun!
 - _6-dec-19_:  Very excited to be part of RuhrSec 2020 to present HideNoSeek! See you in May in Bochum.
