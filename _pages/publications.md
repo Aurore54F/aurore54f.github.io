@@ -23,7 +23,7 @@ author_profile: true
 </style>
 
 <p class="bottom-two">
-<h1 class="page__title">Additional Talks</h1>
+<h1 class="page__title">Additional Peer-Reviewed Talks</h1>
 </p>
 
 {% for post in site.talks reversed %}
