@@ -7,10 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+## Research Assistants Supervision - Summer Term 2020
+
+* Browser Extensions: Security and Vulnerabilities (2 bachelor students, co-supervised)
+* Overview and Analysis of JavaScript Obfuscation Techniques (2 bachelor students)
+
 ## CySec Projects - Winter Term 2019/2020
 
-* Overview and Analysis of JavaScript Obfuscation Techniques (2 bachelor students)
-* Intelligent Fuzzing System for JavaScript (2 bachelor students)
+* Overview and Analysis of JavaScript Obfuscation Techniques (2 bachelor students, 6 months)
+* Intelligent Fuzzing System for JavaScript (2 bachelor students, 6 months)
 
 ## Seminar: Joint Advances in Web Security - Winter Term 2019/2020
 
@@ -25,5 +30,5 @@ author_profile: true
 
 ## Research Assistants Supervision - 2018
 
-* In-Depth Analysis of JavaScript Obfuscation Techniques and Deobfuscation (3 months)
-* Lexical Malicious JavaScript Detection System (1 month)
+* In-Depth Analysis of JavaScript Obfuscation Techniques and Deobfuscation (1 bachelor student, 3 months)
+* Lexical Malicious JavaScript Detection System (1 bachelor student, 1 month)
