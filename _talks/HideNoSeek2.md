@@ -11,4 +11,5 @@ authors: <b>Aurore Fass</b>
 venue: 'RuhrSec'
 slideurl: 
 citation:
+recording: "https://www.youtube.com/watch?v=hhyXRRdjbls"
 ---
