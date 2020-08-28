@@ -12,7 +12,7 @@ I am a third year Ph.D. student in the [Secure Web Applications Group](https://s
 
 Prior to that, I was a master student at the French Grande École [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honour to give the valedictorian speech (2017). In particular, I wrote my master's thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
 
-My research interests include static malware analysis and detection (with special focus on JavaScript code), machine learning, and adversarial attacks. I presented my research work at several academic and non-academic venues like CCS, ACSAC, DIMVA, MADWeb, and Blackhoodie.  
+My research interests include static malware analysis and detection (with special focus on JavaScript code), machine learning, and adversarial attacks. I presented my research work at several academic and non-academic venues like CCS, ACSAC, DIMVA, RuhrSec, MADWeb, and Blackhoodie.  
 I am also a regular external reviewer at top academic venues such as USENIX Security, NDSS, CCS, Euro S&P, and ACSAC.  
 Finally, I am happy to supervise bachelor and master students in the scope of research projects and of our yearly web security seminar.
 

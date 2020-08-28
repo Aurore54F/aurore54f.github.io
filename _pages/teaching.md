@@ -10,7 +10,7 @@ author_profile: true
 ## Research Assistants Supervision - Summer Term 2020
 
 * Browser Extensions: Security and Vulnerabilities (2 bachelor students, co-supervised)
-* Overview and Analysis of JavaScript Obfuscation Techniques (2 bachelor students)
+* Overview and Analysis of JavaScript Obfuscation Techniques (2 bachelor students, 6 months)
 
 ## CySec Projects - Winter Term 2019/2020
 
