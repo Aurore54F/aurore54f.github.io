@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the [Secure Web Applications Group](https://swag.cispa.saarland) at [CISPA Helmholtz Center for Information Security](https://cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes).
+I am a Ph.D. student in the [Secure Web Applications Group](https://swag.cispa.saarland) at [CISPA Helmholtz Center for Information Security](https://cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes).
 
-Prior to that, I was a master student at the French Grande École [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honour to give the valedictorian speech (2017). In particular, I wrote my master's thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
+Prior to that, I was a master student at the French Grande Ecole [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honor to give the valedictorian speech (2017). In particular, I wrote my master thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
 
-My research interests include static malware analysis and detection (with special focus on JavaScript code), machine learning, and adversarial attacks. I presented my research work at several academic and non-academic venues like CCS, ACSAC, DIMVA, RuhrSec, MADWeb, and Blackhoodie.  
+
+In 2020, I submitted my Ph.D. thesis, which revolves around studying JavaScript security through static analysis. In particular, my research interests include static code analysis, malware & vulnerability detection, machine learning, and adversarial attacks. I presented my research work at several academic and non-academic venues like CCS, ACSAC, DIMVA, RuhrSec, MADWeb, and Blackhoodie.  
 I am also a regular external reviewer at top academic venues such as USENIX Security, NDSS, CCS, Euro S&P, and ACSAC.  
 Finally, I am happy to supervise bachelor and master students in the scope of research projects and of our yearly web security seminar.
 
 
 What's New?
 ======
+- _22-oct-20_: Thrilled to have handed in my dissertation "Studying JavaScript Security Through Static Analysis"!
 - _28-may-20_: Interested in HideNoSeek? Check out the [recording](https://www.youtube.com/watch?v=hhyXRRdjbls) of my talk at RuhrSec 2020 #StayAtHome Edition!
 - _30-mar-20_: Just released the clone detector part of HideNoSeek on [GitHub](https://github.com/Aurore54F/HideNoSeek). Have fun!
 - _6-feb-20_: HideNoSeek ACM CCS recording is now available for [download](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3319535.3345656&file=p1899-fass.webm&download=true)!
