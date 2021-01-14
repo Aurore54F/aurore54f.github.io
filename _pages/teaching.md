@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Temporary Lecturer at [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en) (Universite de Lorraine, France) - 2021
+
+* Browser Extensions: Architecture and Security Consideration (lectures and tutorials for master students)
+
 ## Research Assistants Supervision - Summer Term 2020
 
 * Browser Extensions: Security and Vulnerabilities (2 bachelor students, co-supervised)
