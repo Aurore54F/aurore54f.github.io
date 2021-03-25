@@ -44,7 +44,9 @@
           <p><span style="color:rgb(0, 119, 181); font-size:22px"><b>{{title}}</b></span>
           <br>{{ post.authors }}
           <br>In <i>{{ post.venue }}</i>, {{ post.when }}
+           {% if post.paperurl %}
           <br><a href="{{ post.paperurl }}" target="_blank" class="btn btn--success" role="button">Paper</a>
+          {% endif %}
           {% if post.code %}
             <a href="{{ post.code }}" target="_blank" class="btn btn--success" role="button">Code</a>
           {% endif %}

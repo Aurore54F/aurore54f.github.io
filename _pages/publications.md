@@ -31,6 +31,7 @@ author_profile: true
 
 ## <span style="color:rgb(0, 119, 181)"> Statically Analyzing Malicious JavaScript in the Wild </span>
 
+* Mar 2021: Webinar at LORIA (France). Remote.
 * Dec 2020: BINSEC Webinar at CEA (France). Remote.
 
 

@@ -7,7 +7,7 @@ when: June 2018
 date: June 2018
 year: 2018
 authors: <b>Aurore Fass</b>, Robert Krawczyk, Michael Backes, and Ben Stock
-venue: 'Proceedings of the International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)'
+venue: 'Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)'
 acceptance: 32% (18/56 full research papers)
 paperurl: 'https://swag.cispa.saarland/papers/fass2018jast.pdf'
 code: 'https://github.com/Aurore54F/JaSt'
