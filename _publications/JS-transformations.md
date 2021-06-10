@@ -8,7 +8,7 @@ date: June 2021
 year: 2021
 authors: Marvin Moog, Markus Demmel, Michael Backes, and <b>Aurore Fass</b>
 venue: 'Dependable Systems and Networks (DSN)'
-acceptance: 16%
+acceptance: 16% (48/295 full research papers)
 paperurl:
 code:
 citation:

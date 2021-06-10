@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aurore Fass"
 title_separator          : "-"
 name                     : &name "Aurore Fass"
-description              : &description "Ph.D. Student at CISPA – Helmholtz Center for Information Security"
+description              : &description "Postdoc at CISPA -- Helmholtz Center for Information Security"
 url                      : https://aurore54f.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aurore54f.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aurore Fass"
   avatar           : "Aurore.jpg"
-  bio              : "Ph.D. Student at CISPA – Helmholtz Center for Information Security"
+  bio              : "Postdoc at CISPA -- Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           :

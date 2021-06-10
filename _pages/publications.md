@@ -28,6 +28,10 @@ author_profile: true
 
 
 
+## <span style="color:rgb(0, 119, 181)"> Studying JavaScript Security Through Static Analysis </span>
+
+* May 2021: PhD Defense. Remote.
+
 
 ## <span style="color:rgb(0, 119, 181)"> Statically Analyzing Malicious JavaScript in the Wild </span>
 
