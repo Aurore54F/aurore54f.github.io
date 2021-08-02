@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aurore Fass"
+title: "Dr.-Ing. Aurore Fass"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

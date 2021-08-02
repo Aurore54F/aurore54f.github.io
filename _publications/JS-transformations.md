@@ -9,8 +9,10 @@ year: 2021
 authors: Marvin Moog, Markus Demmel, Michael Backes, and <b>Aurore Fass</b>
 venue: 'Dependable Systems and Networks (DSN)'
 acceptance: 16% (48/295 full research papers)
-paperurl:
-code:
+paperurl: 'https://swag.cispa.saarland/papers/moog2021statically.pdf'
+code: 'https://github.com/MarM15/js-transformations'
+recording: 'https://www.youtube.com/watch?v=ql78Q-JkeNk'
+slideurl: 'https://swag.cispa.saarland/papers/moog2021statically.talk.pdf'
 citation:
 ---
 JavaScript is both a popular client-side programming language and an attack vector. While malware developers transform their JavaScript code to hide its malicious intent and impede detection, well-intentioned developers also transform their code to, e.g., optimize website performance. In this paper, we conduct an in-depth study of code transformations in the wild. Specifically, we perform a static analysis of JavaScript files to build their Abstract Syntax Tree (AST), which we extend with control and data flows. Subsequently, we define two classifiers, benefitting from AST-based features, to detect transformed samples along with specific transformation techniques.

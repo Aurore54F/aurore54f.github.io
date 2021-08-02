@@ -30,6 +30,7 @@ author_profile: true
 
 ## <span style="color:rgb(0, 119, 181)"> Studying JavaScript Security Through Static Analysis </span>
 
+* June 2021: Spirals Webinar at Inria Lille (France). Remote.
 * May 2021: PhD Defense. Remote.
 
 
