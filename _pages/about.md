@@ -21,8 +21,9 @@ Finally, I am happy to supervise bachelor and master students in the scope of re
 
 What's New?
 ======
+- _9-sep-21_: Our paper [DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale](https://swag.cispa.saarland/papers/fass2021doublex.pdf) got accepted at CCS 2021! Wanna check extensions for vulnerable data flows? Our source code is [online](https://github.com/Aurore54F/DoubleX).
 - _26-may-21_: Thrilled to have defended my dissertation!
-- _22-oct-20_: Thrilled to have handed in my dissertation "Studying JavaScript Security Through Static Analysis"!
+- _22-oct-20_: Thrilled to have handed in my dissertation [Studying JavaScript Security Through Static Analysis](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31484/1/Thesis-final_Fass.pdf)!
 - _28-may-20_: Interested in HideNoSeek? Check out the [recording](https://www.youtube.com/watch?v=hhyXRRdjbls) of my talk at RuhrSec 2020 #StayAtHome Edition!
 - _30-mar-20_: Just released the clone detector part of HideNoSeek on [GitHub](https://github.com/Aurore54F/HideNoSeek). Have fun!
 - _6-feb-20_: HideNoSeek ACM CCS recording is now available for [download](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3319535.3345656&file=p1899-fass.webm&download=true)!

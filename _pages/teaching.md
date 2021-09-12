@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Bachelor Thesis Co-Supervision - 2021
+
+* JavaScript Call Graph Creation Techniques
+
 ## Temporary Lecturer at [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en) (Universite de Lorraine, France) - 2021
 
 * Browser Extensions: Architecture and Security Consideration (lectures and tutorials for master students)
