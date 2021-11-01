@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [CISPA Helmholtz Center for Information Security](https://cispa.saarland).
-Prior to that, I was a PhD student in the [Secure Web Applications Group](https://swag.cispa.saarland) at CISPA, jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes).
+I am a Visiting Assistant Professor of [Computer Science at Stanford University](https://cs.stanford.edu).
+My research broadly focusses on Web security and privacy, Web measurements, and machine learning. Specifically, I am interested in detecting malware & vulnerabilities on the Web and collecting data to better understand and improve user security and privacy.
+
+In 2021, I was a postdoctoral researcher at [CISPA Helmholtz Center for Information Security](https://cispa.saarland).
+Prior to that, I was a PhD student at CISPA (2017-2020), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My PhD thesis revolves around studying JavaScript security through static analysis.
 
 Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honor to give the valedictorian speech (2017). In particular, I wrote my master thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
 
 
-My PhD thesis revolves around studying JavaScript security through static analysis. In particular, my research interests include static code analysis, malware & vulnerability detection, machine learning, and adversarial attacks. I presented my research work at several academic and non-academic venues like CCS, ACSAC, DSN, DIMVA, RuhrSec, MADWeb, and Blackhoodie.  
-I am also a regular external reviewer at top academic venues such as USENIX Security, NDSS, CCS, Euro S&P, and ACSAC.  
-Finally, I am happy to supervise bachelor and master students in the scope of research projects and of our yearly web security seminar.
-
-
 What's New?
 ======
+- _1-oct-21_: Starting as a Visiting Assistant Professor at Stanford University today!
 - _9-sep-21_: Our paper [DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale](https://swag.cispa.saarland/papers/fass2021doublex.pdf) got accepted at CCS 2021! Wanna check extensions for vulnerable data flows? Our source code is [online](https://github.com/Aurore54F/DoubleX).
 - _26-may-21_: Thrilled to have defended my dissertation!
 - _22-oct-20_: Thrilled to have handed in my dissertation [Studying JavaScript Security Through Static Analysis](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31484/1/Thesis-final_Fass.pdf)!
