@@ -27,10 +27,13 @@ author_profile: true
 </p>
 
 
+## <span style="color:rgb(0, 119, 181)"> DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale  </span>
+* Nov 2021: Stanford Security Lunch. Stanford, CA, U.S.
+
 
 ## <span style="color:rgb(0, 119, 181)"> Studying JavaScript Security Through Static Analysis </span>
 
-* June 2021: Spirals Webinar at Inria Lille (France). Remote.
+* Jun 2021: Spirals Webinar at Inria Lille (France). Remote.
 * May 2021: PhD Defense. Remote.
 
 
@@ -44,7 +47,7 @@ author_profile: true
 
 * May 2020: RuhrSec. Remote. &nbsp; [Recording](https://www.youtube.com/watch?v=hhyXRRdjbls)
 * Mar 2019: Grande Region Security and Reliability Day (GRSRD). Nancy, France.
-* Feb 2019: MADWeb. San Diego, USA.
+* Feb 2019: MADWeb. San Diego, CA, U.S.
 
 
 ## <span style="color:rgb(0, 119, 181)"> JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript </span>
@@ -61,3 +64,17 @@ author_profile: true
 * Sep 2017: Talk at the German Federal Office for Information Security (BSI). Bonn, Germany.
 * Jul 2017: Talk at genua. Muenchen, Germany.
 * Jul 2017: Talk at CISPA. Saarbruecken, Germany.
+
+
+
+<style>
+  .bottom-one {margin-bottom: 1cm;}
+  .bottom-two {margin-bottom: 3cm;}
+</style>
+
+<p class="bottom-two">
+<h1 class="page__title">Non-Academic Talks</h1>
+</p>
+
+* Sep 2021: Inspiring career path speech (~400 people) at TELECOM Nancy 30th anniversary (France). Remote.
+* Dec 2017: Valedictorian speech (~500 people) at TELECOM Nancy graduation ceremony. Nancy, France.
