@@ -8,6 +8,7 @@ date: November 2021
 year: 2021
 authors: <b>Aurore Fass</b>, Doliere Francis Some, Michael Backes, and Ben Stock
 venue: 'ACM CCS'
+acceptance: 23% (131/564 full research papers, May cycle)
 paperurl: 'https://swag.cispa.saarland/papers/fass2021doublex.pdf'
 code: 'https://github.com/Aurore54F/DoubleX'
 citation:
