@@ -8,7 +8,7 @@ date: October 2020
 year: 2020
 authors: <b>Aurore Fass</b>
 venue: 'PhD Thesis, Saarland University'
-paperurl: 'https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31484/1/Thesis-final_Fass.pdf'
+paperurl: 'https://publications.cispa.saarland/3471/7/fass2020thesis.pdf'
 code: 'https://github.com/Aurore54F/'
 citation:
 ---
