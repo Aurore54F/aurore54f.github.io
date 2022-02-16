@@ -9,6 +9,7 @@ year: 2020
 authors: <b>Aurore Fass</b>
 venue: 'PhD Thesis, Saarland University'
 paperurl: 'https://publications.cispa.saarland/3471/7/fass2020thesis.pdf'
+papersummary: 'https://aurore54f.github.io/papers/fass2020thesissummary'
 code: 'https://github.com/Aurore54F/'
 citation:
 ---
