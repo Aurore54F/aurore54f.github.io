@@ -9,6 +9,7 @@ author_profile: true
 
 ## Program Committee
 
+* S&P 2023
 * ACM CCS 2022 - Web Security Track
 * ARES 2022
 * SecWeb 2022
