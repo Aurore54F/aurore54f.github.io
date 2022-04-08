@@ -27,15 +27,14 @@ author_profile: true
 </p>
 
 
-## <span style="color:rgb(0, 119, 181)"> Studying JavaScript Security Through Static Analysis: Detection of Malicious and Vulnerable Code </span>
-* Mar 2022: Palo Alto Networks (CA, U.S.). Remote.
-
 ## <span style="color:rgb(0, 119, 181)"> DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale  </span>
+* Apr 2022: Stanford Computer Forum -- Security Workshop. Stanford, CA, U.S. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2022doublexstanford.talk.pdf)
 * Nov 2021: Stanford Security Lunch. Stanford, CA, U.S.
 
 
 ## <span style="color:rgb(0, 119, 181)"> Studying JavaScript Security Through Static Analysis </span>
 
+* Mar 2022: Palo Alto Networks (CA, U.S.). Remote. (extended version)
 * Jun 2021: Spirals Webinar at Inria Lille (France). Remote.
 * May 2021: PhD Defense. Remote.
 
