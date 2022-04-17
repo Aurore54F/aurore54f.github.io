@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Visiting Assistant Professor of [Computer Science at Stanford University](https://cs.stanford.edu).
-My research broadly focusses on Web security and privacy, Web measurements, and machine learning. Specifically, I am interested in detecting malware & vulnerabilities on the Web and collecting data to better understand and improve user security and privacy.
+My research broadly focuses on Web security and privacy, Web measurements, and machine learning. Specifically, I am interested in detecting malware & vulnerabilities on the Web and collecting data to better understand and improve user security and privacy.
 
 In 2021, I was a postdoctoral researcher at [CISPA Helmholtz Center for Information Security](https://cispa.saarland).
 Prior to that, I was a PhD student at CISPA (2017-2020), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My PhD thesis revolves around studying JavaScript security through static analysis.
