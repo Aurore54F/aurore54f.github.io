@@ -11,9 +11,9 @@ author_profile: true
 
 * S&P 2023
 * ACM CCS 2022 - Web Security Track
+* TheWebConf (WWW) 2022 - Security, Privacy, and Trust Track
 * ARES 2022
 * SecWeb 2022
-* TheWebConf (WWW) 2022 - Security, Privacy, and Trust Track
 * ACM CCS 2021 - Web Security Track
 * SecWeb 2021
 
