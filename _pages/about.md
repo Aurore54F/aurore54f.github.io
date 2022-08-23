@@ -19,6 +19,7 @@ Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM
 
 What's New?
 ======
+- _17-aug-22_: Our paper "A World Wide View of Browsing the World Wide Web" got accepted at IMC 2022!
 - _1-oct-21_: Starting as a Visiting Assistant Professor at Stanford University today!
 - _9-sep-21_: Our paper [DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale](https://swag.cispa.saarland/papers/fass2021doublex.pdf) got accepted at CCS 2021! Wanna check extensions for vulnerable data flows? Our source code is [online](https://github.com/Aurore54F/DoubleX).
 - _26-may-21_: Thrilled to have defended my dissertation!
