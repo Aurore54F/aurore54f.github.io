@@ -7,30 +7,32 @@ author_profile: true
 
 {% include base_path %}
 
+
+## PC Co-Chair
+* MADWeb 2023 (co-located with NDSS)
+
 ## Program Committee
 
 * S&P 2023
-* ACM CCS 2022 - Web Security Track
-* TheWebConf (WWW) 2022 - Security, Privacy, and Trust Track
+* EuroS&P 2023
+* TheWebConf (WWW) -- Security, Privacy, and Trust Track 2023 & 2022
+* ACM CCS -- Web Security Track 2022 & 2021
 * ARES 2022
-* SecWeb 2022
-* ACM CCS 2021 - Web Security Track
-* SecWeb 2021
-
-## External Reviewer
-
-* NDSS 2022
-* USENIX Security 2022
-* USENIX Security 2021
-* NDSS 2021
-* USENIX Security 2020
-* NDSS 2020
-* ACSAC 2019
-* Euro S&P 2019
-* ACSAC 2018
-* ACM CCS 2018
+* SecWeb 2022 & 2021
 
 ## Artifact Committee
 
 * USENIX Security 2021
 * ACSAC 2018
+
+## External Reviewer
+
+* NDSS 2022--2020
+* USENIX Security 2022--2020
+* Euro S&P 2019
+* ACSAC 2019 & 2018
+* ACM CCS 2018
+
+## Hiring Committee
+
+* CISPA faculty hiring committee 2020
