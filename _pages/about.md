@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Assistant Professor of [Computer Science at Stanford University](https://cs.stanford.edu).
+I am a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu).
 My research broadly focuses on Web security and privacy, Web measurements, and machine learning. Specifically, I am interested in detecting malware & vulnerabilities on the Web and collecting data to better understand and improve user security and privacy.
 
 In 2021, I was a postdoctoral researcher at [CISPA Helmholtz Center for Information Security](https://cispa.saarland).
@@ -19,6 +19,7 @@ Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM
 
 What's New?
 ======
+- _24-sep-22_: The Web is going MAD again! Super excited to co-chair the 5th [MADWeb](https://madweb.work) workshop (co-located with NDSS 2023) with Zubair Shafiq!
 - _17-aug-22_: Our paper "A World Wide View of Browsing the World Wide Web" got accepted at IMC 2022!
 - _1-oct-21_: Starting as a Visiting Assistant Professor at Stanford University today!
 - _9-sep-21_: Our paper [DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale](https://swag.cispa.saarland/papers/fass2021doublex.pdf) got accepted at CCS 2021! Wanna check extensions for vulnerable data flows? Our source code is [online](https://github.com/Aurore54F/DoubleX).
