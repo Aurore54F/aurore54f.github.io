@@ -9,8 +9,8 @@ author_profile: true
 
 ## Courses
 
-### 2021: Temporary Lecturer at [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en) (Universite de Lorraine, France)
-* Browser Extensions: Architecture and Security Consideration (lectures and practicals for master students)
+### WS 2020--2021: Temporary Lecturer at [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en) (Universite de Lorraine, France)
+* Browser Extensions: Architecture and Security Consideration (lectures and practicals for MSc students)
 
 ### WS 2019--2020: Seminar - Joint Advances in Web Security
 * Browser Extensions: Security and Vulnerabilities
@@ -22,46 +22,56 @@ author_profile: true
 
 
 
-## Ph.D. Student Mentoring & (Co)supervision
+## Ph.D. Student Collaboration, Mentoring & Supervision
 
-From Fall 2021: Shubham Agarwal -- Browser Extension Security
+Winter 2022--: **Liz Izhikevich** -- *Internet Scanning*, with Zakir Durumeric, Stanford University
 
-From Fall 2021: Kimberly Ruth -- Web Measurement -- with Zakir Durumeric
+Fall 2021--: **Kimberly Ruth** -- *Browsing Behavior*, with Zakir Durumeric, Stanford University
 
-Winter 2021: Liz Izhikevich -- Internet Scanning -- with Zakir Durumeric
-
-Fall 2021: Liana Patel -- Web Crawler -- with Zakir Durumeric
-
-
-
-## Master Student Mentoring & Supervision
-
-Winter 2021: Fengchen Gong -- Browser Fingerprinting
-
+Fall 2021--: **Shubham Agarwal** -- *Browser Extension Security*, CISPA
 
 
 ## Bachelor Student Mentoring & Supervision
 
-From Summer 2021: Mark Tran -- Browser Extension Fingerprinting
+Spring 2022--: **Sheryl Hsu** -- *Browser Extension Security*, Stanford University
 
-From Spring 2021: Sheryl Hsu -- Malicious Extension Detection
 
-From Spring 2021: Vrushank Gunjur -- Over-Privileged Extension Detection
 
-Spring 2021: Nahum Maru -- Browser Extension Crawler
+## Alumni
 
-Fall 2021: Luca Pistor and Nathan Bhak -- Exam Software Security
+### 2022
 
-Spring 2021: Paul Szymanski -- Bachelor Thesis -- A Study of State-of-the-Art Call Graph Creation Approaches for JavaScript -- with Cristian-Alexandru Staicu
+* **Mark Tran** (BSc student) -- *Browser Extension Fingerprinting*
+* **Vrushank Gunjur** (BSc student) -- *Over-Privileged Extensions*
+* **Nahum Maru** (BSc student) -- *Browser Extension Crawler*
+* **Fengchen Gong** (MSc student) -- *Browser Fingerprinting*
 
-SS 2020: Anne Christin Deutschen and Luc Seyler -- Browser Extensions: Security and Vulnerabilities -- with Doliere Francis Some
 
-2019--2020: Marvin Moog and Markus Demmel -- Overview and Analysis of JavaScript Obfuscation Techniques
+### 2021
 
-WS 2019--2020: Maximilian Zoellner and Niklas Kempf -- Intelligent Fuzzing System for JavaScript
+* **Liana Patel** (Ph.D. student) -- *Web Crawler*, with Zakir Durumeric
+* **Luca Pistor** & **Nathan Bhak** (BSc students) -- *Exam Software Security*
+* **Paul Szymanski** (BSc thesis) -- *A Study of State-of-the-Art Call Graph Creation Approaches for JavaScript*, with Cristian-Alexandru Staicu
 
-SS 2018: Nils Gloerfeld -- In-Depth Analysis of JavaScript Obfuscation Techniques and Deobfuscation
 
-Winter 2018: Dennis Salzmann -- Lexical Malicious JavaScript Detection System
+### 2020
+
+* **Anne Christin Deutschen** & **Luc Seyler** (BSc students) -- *Browser Extension Vulnerability*, with Doliere Francis Some
+
+
+### 2019--2020
+
+* **Marvin Moog** & **Markus Demmel** (BSc students) -- *Analysis of JavaScript Obfuscation Techniques*
+
+
+### 2019
+
+* **Maximilian Zoellner** & **Niklas Kempf** (BSc students) -- *Intelligent Fuzzing System for JavaScript*
+
+
+### 2018
+
+* **Nils Gloerfeld** (BSc student) -- *Malicious JavaScript Deobfuscation*
+* **Dennis Salzmann** (BSc student) -- *Malicious JavaScript Detection*
 
 
