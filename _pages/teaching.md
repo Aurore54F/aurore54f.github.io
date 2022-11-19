@@ -22,7 +22,8 @@ author_profile: true
 
 
 
-## Ph.D. Student Collaboration, Mentoring & Supervision
+## Student Advising and Mentoring
+### Ph.D. Students
 
 Winter 2022--: **Liz Izhikevich** -- *Internet Scanning*, with Zakir Durumeric, Stanford University
 
@@ -31,20 +32,26 @@ Fall 2021--: **Kimberly Ruth** -- *Browsing Behavior*, with Zakir Durumeric, Sta
 Fall 2021--: **Shubham Agarwal** -- *Browser Extension Security*, CISPA
 
 
-## Bachelor Student Mentoring & Supervision
+### Master Students
+
+Fall 2022--: **Manda Tran** -- *Browser Extension Security*, Stanford University
+
+
+### Bachelor Students
 
 Spring 2022--: **Sheryl Hsu** -- *Browser Extension Security*, Stanford University
 
 
 
-## Alumni
+### Alumni
 
 ### 2022
 
 * **Mark Tran** (BSc student) -- *Browser Extension Fingerprinting*
+* **Basheerah Abdus-Shakur** (BSc student) -- *Vulnerability Patching*, with Zakir Durumeric
 * **Vrushank Gunjur** (BSc student) -- *Over-Privileged Extensions*
 * **Nahum Maru** (BSc student) -- *Browser Extension Crawler*
-* **Fengchen Gong** (MSc student) -- *Browser Fingerprinting*
+* **Fengchen (Maggie) Gong** (MSc student) -- *Browser Fingerprinting*
 
 
 ### 2021
