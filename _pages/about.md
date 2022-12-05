@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu).
-My research broadly focuses on Web security and privacy, Web measurements, and machine learning. Specifically, I am interested in detecting malware & vulnerabilities on the Web and collecting data to better understand and improve user security and privacy.
+I am a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu), in the [Empirical Security Research Group](https://esrg.stanford.edu), led by [Zakir Durumeric](https://zakird.com).
+My research broadly focuses on Web security and privacy, Web measurements, and machine learning. Specifically, I design practical approaches to protect the security and privacy of Web users. I build systems to proactively detect malicious JavaScript code and suspicious browser extensions. I analyze data to understand how people spend time on the Web, and I want to use the resulting perspective to prioritize defense strategies.
 
 In 2021, I was a postdoctoral researcher at [CISPA Helmholtz Center for Information Security](https://cispa.saarland).
 Prior to that, I was a PhD student at CISPA (2017-2020), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My PhD thesis revolves around studying JavaScript security through static analysis.
