@@ -14,11 +14,11 @@ author_profile: true
 ## Program Committee
 
 * S&P 2023
+* ACM CCS -- Web Security Track 2023--2021
 * EuroS&P 2023
 * TheWebConf (WWW) -- Security, Privacy, and Trust Track 2023 & 2022
-* ACM CCS -- Web Security Track 2022 & 2021
+* SecWeb 2023--2021
 * ARES 2022
-* SecWeb 2022 & 2021
 
 ## Artifact Committee
 
