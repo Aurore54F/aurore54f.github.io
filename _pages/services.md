@@ -13,12 +13,13 @@ author_profile: true
 
 ## Program Committee
 
-* S&P 2023
+* IEEE S&P 2023
 * ACM CCS -- Web Security Track 2023--2021
-* EuroS&P 2023
+* IEEE EuroS&P 2023
+* ACSAC 2023
 * TheWebConf (WWW) -- Security, Privacy, and Trust Track 2023 & 2022
+* ARES 2023 & 2022
 * SecWeb 2023--2021
-* ARES 2022
 
 ## Artifact Committee
 
@@ -29,7 +30,7 @@ author_profile: true
 
 * NDSS 2022--2020
 * USENIX Security 2022--2020
-* Euro S&P 2019
+* IEEE Euro S&P 2019
 * ACSAC 2019 & 2018
 * ACM CCS 2018
 
