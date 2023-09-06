@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu), in the [Empirical Security Research Group](https://esrg.stanford.edu), led by [Zakir Durumeric](https://zakird.com).
+I am a Tenure-Track Faculty at [CISPA Helmholtz Center for Information Security](https://cispa.de)
 My research broadly focuses on Web security and privacy, Web measurements, and machine learning. Specifically, I design practical approaches to protect the security and privacy of Web users. I build systems to proactively detect malicious JavaScript code and suspicious browser extensions. I analyze data to understand how people spend time on the Web, and I want to use the resulting perspective to prioritize defense strategies.
 
-In 2021, I was a postdoctoral researcher at [CISPA Helmholtz Center for Information Security](https://cispa.saarland).
-Prior to that, I was a PhD student at CISPA (2017-2020), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My PhD thesis revolves around studying JavaScript security through static analysis.
+Before that, I was a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu) (2021--2023), in the [Empirical Security Research Group](https://esrg.stanford.edu), led by [Zakir Durumeric](https://zakird.com).
+Prior to that, I was a PhD student at CISPA (2018-2021), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My PhD thesis revolves around studying JavaScript security through static analysis.
 
 Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honor to give the valedictorian speech (2017). In particular, I wrote my master thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
 
 
 What's New?
 ======
+- _May 2023_: Incredibly excited to join CISPA as a Tenure-Track Faculty in August! In the meantime, I am already looking for PhD students in areas related to Web Security & Privacy.
 - _Nov 2022_: Stoked and grateful to have received a [Top Reviewer Award](https://twitter.com/AuroreFass/status/1591109188352372736) at [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/program/awards.html)!
 - _Sep 2022_: The Web is going MAD again! Super excited to co-chair the 5th [MADWeb](https://madweb.work) workshop (co-located with NDSS 2023) with [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair)!
 - _Aug 2022_: Our paper ["A World Wide View of Browsing the World Wide Web"](https://zakird.com/papers/browsing.pdf) got accepted at IMC 2022!
