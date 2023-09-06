@@ -9,6 +9,7 @@ author_profile: true
 
 
 ## PC Co-Chair
+
 * MADWeb 2023 (co-located with NDSS)
 
 ## Program Committee
@@ -20,6 +21,7 @@ author_profile: true
 * TheWebConf (WWW) -- Security, Privacy, and Trust Track 2023 & 2022
 * ARES 2023 & 2022
 * SecWeb 2023--2021
+* SaTS 2023
 
 ## Artifact Committee
 
@@ -28,6 +30,9 @@ author_profile: true
 
 ## External Reviewer
 
+* IEEE S&P 2024
+* ESORICS 2023
+* ICCCN 2023
 * NDSS 2022--2020
 * USENIX Security 2022--2020
 * IEEE Euro S&P 2019
@@ -37,3 +42,15 @@ author_profile: true
 ## Hiring Committee
 
 * CISPA faculty hiring committee 2020
+
+## Doctoral Committee
+
+* Romain Fouquet (Ph.D., Computer Science, Université de Lille, May 2023)
+
+## Project Proposal
+
+* ANR 2023
+
+## Other
+
+* IMC Travel Grants 2023
