@@ -14,9 +14,9 @@ author_profile: true
 
 ## Program Committee
 
+* IEEE EuroS&P 2024 & 2023
 * IEEE S&P 2023
 * ACM CCS -- Web Security Track 2023--2021
-* IEEE EuroS&P 2023
 * ACSAC 2023
 * TheWebConf (WWW) -- Security, Privacy, and Trust Track 2023 & 2022
 * ARES 2023 & 2022
@@ -49,7 +49,7 @@ author_profile: true
 
 ## Project Proposal
 
-* ANR 2023
+* Reviewed projects for several European funding organizations
 
 ## Other
 
