@@ -41,7 +41,7 @@ Note that the open positions are not project-bound and that you are free to choo
 
 I am looking for motivated students with solid programming skills in python and (at least) a basic background in Web security. Proficiency in spoken and written English is a must; German knowledge is not necessary. I expect students to be curious, creative, and have a strong willingness to learn & improve.
 
-In return, we offer an excellent research environment in Sankt Ingbert, with close individual supervision, worldwide collaborations, competitive salary according to [TVöD-13](https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund/a/2022?id=tvoed-bund-2022&g=E_13&s=1&zv=VBL&z=100&zulage=&stkl=1&r=0&zkf=0&kk=15.5%25), and with significant funding for travel and equipment.
+In return, we offer an excellent research environment in Sankt Ingbert, with close individual supervision, worldwide collaborations, competitive salary according to TVöD, and with significant funding for travel and equipment.
 
 
 If you are interested, please apply through [CISPA's centralized application portal](https://jobs.cispa.saarland/jobs/detail/phd-students-1). Make sure that your cover letter mentions my research group and why you would be a good fit. If you have any questions, first read [this page](https://aurore54f.github.io/contact/) on how to contact me and then send me an email accordingly.
@@ -51,6 +51,6 @@ If you are interested, please apply through [CISPA's centralized application por
 ## Bachelor / Master Theses
 
 I offer theses in the areas discussed above, but I also welcome new research directions if you already have a specific idea for your thesis.
-I highly recommend you have good programming skills in python and (at least) a basic background in Web security. Having attended a seminar is a plus. Proficiency in spoken and written English is a must; German knowledge is not necessary. I expect students to be curious, creative, and have a strong willingness to learn. Note that theses in this group are typically high-effort / high-reward, meaning that good theses are meant to be submitted as papers to major security conferences. Consider that you should be able to spend *at least* 20h / week working on your thesis topic for the duration of your thesis.
+I highly recommend you have good programming skills in python and (at least) a basic background in Web security. Having attended a seminar is a plus. Proficiency in spoken and written English is a must; German knowledge is not necessary. I expect students to be curious, creative, and have a strong willingness to learn. Note that theses in this group are typically high-effort / high-reward, meaning that good theses are meant to be submitted as papers to major security conferences.
 
 If you are interested in doing your thesis with me, first read [this page](https://aurore54f.github.io/contact/) on how to contact me and then send me an email accordingly.

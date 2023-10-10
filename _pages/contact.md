@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+In general, I ignore all unspecific emails.
+
+
 ## Prospective Students
 
 If you contact me with regards to open positions, please include your CV and transcript in the email. Be specific regarding why you contact *me*. For example, to what extent are your research interests related to the research topics of my research group?
@@ -31,8 +34,3 @@ If you need access to other datasets for research purposes, feel free to send me
 - add a brief description of what you need the datasets for; if you have published papers in the field, feel free to mention that.
 
 **I will ignore emails that do not contain these information.**
-
-
-## Misc
-
-If you contact me for other professional reasons, I expect emails to be specific and to the point. **If I do not know why I am being contacted or what is expected of me, I will ignore the email.**
