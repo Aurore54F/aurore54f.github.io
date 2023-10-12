@@ -9,6 +9,11 @@ author_profile: true
 
 ## Courses
 
+### WS 2023--2024: The Web Security Seminar
+* Malicious JavaScript Analysis
+* Beyond Malicious Extensions: How can Extensions put User Security \& Privacy at Risk?
+* User Browsing Behavior vs. Top Lists
+
 ### WS 2020--2021: Temporary Lecturer at [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en) (Universite de Lorraine, France)
 * Browser Extensions: Architecture and Security Consideration (lectures and practicals for MSc students)
 
@@ -29,15 +34,19 @@ Winter 2022--: **Liz Izhikevich** -- *Internet Scanning*, with Zakir Durumeric, 
 
 Fall 2021--: **Kimberly Ruth** -- *Browsing Behavior*, with Zakir Durumeric, Stanford University
 
-Fall 2021--: **Shubham Agarwal** -- *Browser Extension Security*, CISPA
+Fall 2021--: **Shubham Agarwal** -- *Browser Extension Security*, with Ben Stock, CISPA
 
 
 ### Master Students
+
+Fall 2023--: **Dominic Troppmann** -- *Type Checks*, with Cristian-Alexandru Staicu, Saarland University
 
 Fall 2022--: **Manda Tran** -- *Browser Extension Security*, Stanford University
 
 
 ### Bachelor Students
+
+Fall 2023--: **Ben Rosenzweig** -- *Browser Extension Security*, Saarland University
 
 Spring 2022--: **Sheryl Hsu** -- *Browser Extension Security*, Stanford University
 
