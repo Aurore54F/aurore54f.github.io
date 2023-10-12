@@ -10,7 +10,7 @@ author_profile: true
 
 ## PC Co-Chair
 
-* MADWeb 2023 (co-located with NDSS)
+* MADWeb 2024 & 2023 (co-located with NDSS)
 
 ## Program Committee
 
