@@ -28,7 +28,7 @@ author_profile: true
 
 
 ## <span style="color:rgb(0, 119, 181)"> DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale  </span>
-* Nov 2023: Workshop at INRIA. Paris, France.
+* Nov 2023: Workshop at INRIA. Paris, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2023doublexinria.talk.pdf)
 * Jul 2022: Berkeley Security Seminar. Berkeley, CA, U.S.
 * May 2022: RuhrSec. Bochum, Germany. &nbsp; [Recording](https://www.youtube.com/watch?v=4rDbayVRuu8)
 * Apr 2022: Stanford Computer Forum -- Security Workshop. Stanford, CA, U.S. &nbsp; [Recording](https://www.youtube.com/watch?v=gJcYjpYMDxE&list=PLqYw1C4YGfr3uC5jPER2dXiYEF2P_dG-5&index=8) &nbsp; [Slides](https://aurore54f.github.io/papers/fass2022doublexstanford.talk.pdf)
