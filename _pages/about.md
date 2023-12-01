@@ -19,6 +19,8 @@ Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM
 
 What's New?
 ======
+- _Nov 2023_: Extremely happy to have received a [Top Reviewer Award](https://twitter.com/AuroreFass/status/1729765212146848005) at ACM CCS 2023, 2 years in a row!
+- _Nov 2023_: Our paper "What is in the Chrome Web Store?" was accepted at AsiaCCS 2024! (PDF coming soon)
 - _May 2023_: Incredibly excited to join CISPA as a Tenure-Track Faculty in August! In the meantime, I am already looking for PhD students in areas related to Web Security & Privacy.
 - _Nov 2022_: Stoked and grateful to have received a [Top Reviewer Award](https://twitter.com/AuroreFass/status/1591109188352372736) at [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/program/awards.html)!
 - _Sep 2022_: The Web is going MAD again! Super excited to co-chair the 5th [MADWeb](https://madweb.work) workshop (co-located with NDSS 2023) with [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair)!
