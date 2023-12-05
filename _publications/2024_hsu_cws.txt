@@ -1,0 +1,14 @@
+---
+title: "What is in the Chrome Web Store?"
+collection: publications
+permalink:
+excerpt: ''
+when: July 2024
+date: July 2024
+year: 2024
+authors: Sheryl Hsu, Manda Tran, and <b>Aurore Fass</b>
+venue: 'ACM AsiaCCS'
+acceptance: 22% (65/301 full research papers)
+paperurl: ''
+citation:
+---
