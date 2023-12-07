@@ -19,6 +19,7 @@ Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM
 
 What's New?
 ======
+- _Dec 2023_: Thrilled and grateful to have received a [Top Reviewer Award](https://twitter.com/AuroreFass/status/1732829852871348475) for the second time in one week! This time at ACSAC 2023.
 - _Nov 2023_: Extremely happy to have received a [Top Reviewer Award](https://twitter.com/AuroreFass/status/1729765212146848005) at ACM CCS 2023, 2 years in a row!
 - _Nov 2023_: Our paper "What is in the Chrome Web Store?" was accepted at AsiaCCS 2024! (PDF coming soon)
 - _May 2023_: Incredibly excited to join CISPA as a Tenure-Track Faculty in August! In the meantime, I am already looking for PhD students in areas related to Web Security & Privacy.
