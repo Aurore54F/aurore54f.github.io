@@ -9,6 +9,6 @@ year: 2024
 authors: Sheryl Hsu, Manda Tran, and <b>Aurore Fass</b>
 venue: 'ACM AsiaCCS'
 acceptance: 22% (65/301 full research papers)
-paperurl: ''
+paperurl: 'https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf'
 citation:
 ---
