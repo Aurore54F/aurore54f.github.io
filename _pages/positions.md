@@ -44,8 +44,8 @@ I am looking for motivated students with solid programming skills in python and 
 In return, we offer an excellent research environment in Sankt Ingbert, with close individual supervision, worldwide collaborations, competitive salary according to TVöD, and with significant funding for travel and equipment.
 
 
-If you are interested, apply for a position in my group on the [CISPA web page](https://career.cispa.de/phd.html). Note that we are currently switching to a new application system, so if the link does not work (yet), just let me know by email.
-Make sure that your cover letter mentions my research group and why you would be a good fit for my group and for CISPA. If you have any questions, first read [this page](https://aurore54f.github.io/contact/) on how to contact me and then send me an email accordingly.
+If you are interested, **apply for a position in my group on the [CISPA web page](https://jobs.cispa.saarland/de_DE/jobs/apply/phd-positions-related-to-web-security-and-privacy-m-f-d-group-fass-242). Only applications received in our system will be considered. Applications sent over emails will be ignored.**
+Make sure that your cover letter mentions my research group and why you would be a good fit for my group and for CISPA. To avoid unspecific applications, please **add a PS in your cover letter with the full name of the conference where my last paper was published.** Application materials written by ChatGPT will be ignored.
 
 
 
