@@ -7,14 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-In general, I ignore all unspecific emails.
+In general, I ignore all unspecific emails and emails written by ChatGPT.
 
 
 ## Prospective Students
 
 If you contact me with regards to open positions, please include your CV and transcript in the email. Be specific regarding why you contact *me*. For example, to what extent are your research interests related to the research topics of my research group?
+As already stated [here](https://aurore54f.github.io/positions/), if you want to apply for a PhD position in my group, you have to apply on the [CISPA web page](https://jobs.cispa.saarland/de_DE/jobs/apply/phd-positions-related-to-web-security-and-privacy-m-f-d-group-fass-242). Only applications received in our system will be considered. Applications sent over emails will be ignored.
 
-**I will ignore all impersonal emails, e.g., emails that do not include my name or are a clear copy-paste of emails sent to other professors (including emails sent to other CISPA professors).**
+**I will ignore all impersonal emails, e.g., emails that do not include my name or are a clear copy-paste of emails sent to other professors (including emails sent to other CISPA professors), and emails written by ChatGPT.**
 
 PS: adding a PS with the full name of the conference where my last paper was published would definitely bring bonus points.
 

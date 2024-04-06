@@ -15,12 +15,13 @@ author_profile: true
 ## Program Committee
 
 * ACM CCS -- Web Security Track 2024--2021
+* USENIX Security 2024
 * IEEE EuroS&P 2024 & 2023
+* ACSAC 2024 & 2023
 * IEEE S&P 2023
-* ACSAC 2023
 * TheWebConf (WWW) -- Security, Privacy, and Trust Track 2023 & 2022
 * ARES 2023 & 2022
-* SecWeb 2023--2021
+* SecWeb 2024--2021
 * SaTS 2023
 
 ## Artifact Committee
@@ -31,6 +32,7 @@ author_profile: true
 ## External Reviewer
 
 * IEEE S&P 2024
+* TWEB 2024
 * ESORICS 2023
 * ICCCN 2023
 * NDSS 2022--2020
@@ -41,7 +43,7 @@ author_profile: true
 
 ## Hiring Committee
 
-* CISPA faculty hiring committee 2020
+* CISPA Faculty Hiring Committee 2021
 
 ## Doctoral Committee
 
@@ -53,4 +55,5 @@ author_profile: true
 
 ## Other
 
+* ACM CCS Workshop Chair 2024
 * IMC Travel Grants 2023

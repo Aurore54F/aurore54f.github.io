@@ -22,6 +22,8 @@ What's New?
 - _Dec 2023_: Our paper ["What is in the Chrome Web Store?"](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf) was accepted at AsiaCCS 2024!
 - _Dec 2023_: Thrilled and grateful to have received a [Top Reviewer Award](https://www.acsac.org/2023/files/web/acsac23-programchairs-opening.pdf) for the second time in one week! This time at ACSAC 2023.
 - _Nov 2023_: Extremely happy to have received a [Top Reviewer Award](https://twitter.com/AuroreFass/status/1729765212146848005) at ACM CCS 2023, 2 years in a row!
+- _Oct 2023_: Thrilled to be [ACM CCS 2024 Workshop Chair](https://www.sigsac.org/ccs/CCS2024/organization/organizing-committee.html) with [Christophe Hauser](https://faculty-directory.dartmouth.edu/christophe-hauser). We are looking forward to your workshop proposals!
+- _Sep 2023_: The Web is going MAD again! Super excited to co-chair the 6th [MADWeb](https://madweb.work) workshop (co-located with NDSS 2024) with [Yinzhi Cao](https://yinzhicao.org)!
 - _May 2023_: Incredibly excited to join CISPA as a Tenure-Track Faculty in August! In the meantime, I am already looking for PhD students in areas related to Web Security & Privacy.
 - _Nov 2022_: Stoked and grateful to have received a [Top Reviewer Award](https://twitter.com/AuroreFass/status/1591109188352372736) at [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/program/awards.html)!
 - _Sep 2022_: The Web is going MAD again! Super excited to co-chair the 5th [MADWeb](https://madweb.work) workshop (co-located with NDSS 2023) with [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair)!

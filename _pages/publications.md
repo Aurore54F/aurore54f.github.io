@@ -27,6 +27,10 @@ author_profile: true
 </p>
 
 
+## <span style="color:rgb(0, 119, 181)"> Browser Extension (In)Security  </span>
+* Jun 2024: [GDR Information Security](https://gdr-secu-jn2024.sciencesconf.org). Rennes, France.
+
+
 ## <span style="color:rgb(0, 119, 181)"> DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale  </span>
 * Nov 2023: Workshop at INRIA. Paris, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2023doublexinria.talk.pdf)
 * Jul 2022: Berkeley Security Seminar. Berkeley, CA, U.S.
@@ -37,7 +41,8 @@ author_profile: true
 
 ## <span style="color:rgb(0, 119, 181)"> Studying JavaScript Security Through Static Analysis </span>
 
-* Mar 2022: Palo Alto Networks (CA, U.S.). Remote. (extended version)
+* Apr 2024: PEPR Cyber -- Project DefMal Webinar (France). Remote (extended version).
+* Mar 2022: Palo Alto Networks (CA, U.S.). Remote (extended version).
 * Jun 2021: Spirals Webinar at Inria Lille (France). Remote.
 * May 2021: PhD Defense. Remote.
 

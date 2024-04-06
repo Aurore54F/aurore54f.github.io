@@ -21,7 +21,8 @@ Our prior work focused on detecting malicious JavaScript code by means of static
 
 By design, browser extensions have access to security- and privacy-critical APIs to perform tasks that web pages cannot traditionally do.
 Our prior work focused on detecting vulnerable extensions. We developed a static analyzer to track and detect suspicious data flows between an attacker and sensitive APIs in extensions ([DoubleX-CCS21](https://swag.cispa.saarland/papers/fass2021doublex.pdf)).
-Besides vulnerable extensions, our ongoing projects include detecting fingerprintable extensions and adopting a more data-driven approach to fundamentally understand how browser extensions are designed, used, and could be exploited.
+Besides vulnerable extensions, we uncovered several classes of what we call "Security-Noteworthy Extensions" (SNE). In our [AsiaCCS24](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf) paper, we show that SNE are a significant issue: they affect hundreds of millions of users and stay in the Chrome Web Store for years.
+Our ongoing projects include automatically detecting fingerprintable and malicious browser extensions.
 
 
 **3) Understanding how to prioritize defense strategies through Web measurements**

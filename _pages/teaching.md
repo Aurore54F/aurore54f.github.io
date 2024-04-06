@@ -9,6 +9,8 @@ author_profile: true
 
 ## Courses
 
+### SS 2024: The Web Security Seminar
+
 ### WS 2023--2024: The Web Security Seminar
 * Malicious JavaScript Analysis
 * Beyond Malicious Extensions: How can Extensions put User Security \& Privacy at Risk?
@@ -30,64 +32,60 @@ author_profile: true
 ## Student Advising and Mentoring
 ### Ph.D. Students
 
-Winter 2022--: **Liz Izhikevich** -- *Internet Scanning*, with Zakir Durumeric, Stanford University
+Apr 2024--: **Valentino Dalla Valle** -- *Fingerprinting, Browser Extension Security*, Saarland University & CISPA
 
-Fall 2021--: **Kimberly Ruth** -- *Browsing Behavior*, with Zakir Durumeric, Stanford University
+Dec 2023--: **Dominic Troppmann** -- *Type Checks*, with Cristian-Alexandru Staicu, Saarland University & CISPA
 
-Fall 2021--: **Shubham Agarwal** -- *Browser Extension Security*, with Ben Stock, CISPA
+Nov 2021--: **Shubham Agarwal** (PhD student of Ben Stock) -- *Browser Extension Security*, Saarland University & CISPA
 
-
-### Master Students
-
-Fall 2023--: **Dominic Troppmann** -- *Type Checks*, with Cristian-Alexandru Staicu, Saarland University
-
-Fall 2022--: **Manda Tran** -- *Browser Extension Security*, Stanford University
+Oct 2021--: **Kimberly Ruth** (PhD student of Zakir Durumeric) -- *Web Browsing Behavior*, Stanford University
 
 
 ### Bachelor Students
 
-Fall 2023--: **Ben Rosenzweig** -- *Browser Extension Security*, Saarland University
-
-Spring 2022--: **Sheryl Hsu** -- *Browser Extension Security*, Stanford University
-
+Oct 2023--: **Ben Rosenzweig** (BSc thesis) -- *Machine Learning-Based Approach for Detecting Malicious Browser Extensions*, Saarland University
 
 
 ### Alumni
 
+### 2022--2023
+
+* **[Sheryl Hsu](https://sher222.github.io)** (BSc student) -- *Browser Extension Security* (paper at [AsiaCCS 2024](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf)), Stanford University
+* **Manda Tran** (MSc student) -- *Browser Extension Security* (paper at [AsiaCCS 2024](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf)), Stanford University
+
 ### 2022
 
-* **Mark Tran** (BSc student) -- *Browser Extension Fingerprinting*
-* **Basheerah Abdus-Shakur** (BSc student) -- *Vulnerability Patching*, with Zakir Durumeric
-* **Vrushank Gunjur** (BSc student) -- *Over-Privileged Extensions*
-* **Nahum Maru** (BSc student) -- *Browser Extension Crawler*
-* **Fengchen (Maggie) Gong** (MSc student) -- *Browser Fingerprinting*
+* **Mark Tran** (BSc student) -- *Browser Extension Fingerprinting*, Stanford University
+* **Vrushank Gunjur** (BSc student) -- *Over-Privileged Extensions*, Stanford University
+* **Nahum Maru** (BSc student) -- *Browser Extension Crawler*, Stanford University
+* **Fengchen (Maggie) Gong** (MSc student, now PhD student at Princeton) -- *Browser Fingerprinting*, Stanford University
 
 
 ### 2021
 
-* **Liana Patel** (Ph.D. student) -- *Web Crawler*, with Zakir Durumeric
-* **Luca Pistor** & **Nathan Bhak** (BSc students) -- *Exam Software Security*
-* **Paul Szymanski** (BSc thesis) -- *A Study of State-of-the-Art Call Graph Creation Approaches for JavaScript*, with Cristian-Alexandru Staicu
+* **Liana Patel** (Ph.D. student of Zakir Durumeric) -- *Web Crawler*, Stanford University
+* **Luca Pistor** & **Nathan Bhak** (BSc students) -- *Exam Software Security*, Stanford University
+* **Paul Szymanski** (BSc thesis) -- *A Study of State-of-the-Art Call Graph Creation Approaches for JavaScript*, with Cristian-Alexandru Staicu, Saarland University & CISPA
 
 
 ### 2020
 
-* **Anne Christin Deutschen** & **Luc Seyler** (BSc students) -- *Browser Extension Vulnerability*, with Doliere Francis Some
+* **Anne Christin Deutschen** & **Luc Seyler** (BSc students) -- *Browser Extension Vulnerability*, with Doliere Francis Some, Saarland University & CISPA
 
 
 ### 2019--2020
 
-* **Marvin Moog** & **Markus Demmel** (BSc students) -- *Analysis of JavaScript Obfuscation Techniques*
+* **Marvin Moog** & **Markus Demmel** (BSc students) -- *Analysis of JavaScript Obfuscation Techniques* (paper at [DSN 2021](https://swag.cispa.saarland/papers/moog2021statically.pdf)), Saarland University & CISPA
 
 
 ### 2019
 
-* **Maximilian Zoellner** & **Niklas Kempf** (BSc students) -- *Intelligent Fuzzing System for JavaScript*
+* **Maximilian Zoellner** & **Niklas Kempf** (BSc students) -- *Intelligent Fuzzing System for JavaScript*, Saarland University & CISPA
 
 
 ### 2018
 
-* **Nils Gloerfeld** (BSc student) -- *Malicious JavaScript Deobfuscation*
-* **Dennis Salzmann** (BSc student) -- *Malicious JavaScript Detection*
+* **Nils Gloerfeld** (BSc student) -- *Malicious JavaScript Deobfuscation*, Saarland University & CISPA
+* **Dennis Salzmann** (BSc student) -- *Malicious JavaScript Detection*, Saarland University & CISPA
 
 
