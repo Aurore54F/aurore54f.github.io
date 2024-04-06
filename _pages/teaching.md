@@ -36,9 +36,9 @@ Apr 2024--: **Valentino Dalla Valle** -- *Fingerprinting, Browser Extension Secu
 
 Dec 2023--: **Dominic Troppmann** -- *Type Checks*, with Cristian-Alexandru Staicu, Saarland University & CISPA
 
-Nov 2021--: **Shubham Agarwal** (PhD student of Ben Stock) -- *Browser Extension Security*, Saarland University & CISPA
+Nov 2021--: **[Shubham Agarwal](https://shubh401.github.io)** (Ph.D. student of Ben Stock) -- *Browser Extension Security*, Saarland University & CISPA
 
-Oct 2021--: **Kimberly Ruth** (PhD student of Zakir Durumeric) -- *Web Browsing Behavior*, Stanford University
+Oct 2021--: **[Kimberly Ruth](https://kcruth.com)** (Ph.D. student of Zakir Durumeric) -- *Web Browsing Behavior*, Stanford University
 
 
 ### Bachelor Students
