@@ -1,0 +1,15 @@
+- Research in Germany, February 16, 2024
+Security vulnerabilities of browser extensions in the Chrome Web Store
+https://www.research-in-germany.org/idw-news/en_US/2024/2/2024-02-16_Security_vulnerabilities_of_browser_extensions_in_the_Chrome_Web_Store.html
+
+- idw - Informationsdienst Wissenschaft, February 16, 2024
+Sicherheitslücken bei Browserweiterungen im Chrome Web Store
+https://idw-online.de/de/news828772
+
+- Gewerkschaft Erziehung und Wissenschaft, February 17, 2024
+Sicherheitslücken bei Browserweiterungen im Chrome Web Store
+https://www.gew-ansbach.de/data/2024/02/CISPA_Sicherheitsluecken_bei_Browserweiterungen_im_Chrome_Web_Store_2024-02-17.pdf
+
+- Krankenhaus-IT Journal, March 1, 2024
+Sicherheitslücken bei Browserweiterungen im Chrome Web Store
+https://www.krankenhaus-it.de/item.3084/sicherheitsluecken-bei-browserweiterungen-im-chrome-web-store.html
