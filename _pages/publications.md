@@ -41,7 +41,7 @@ author_profile: true
 
 ## <span style="color:rgb(0, 119, 181)"> Studying JavaScript Security Through Static Analysis </span>
 
-* Apr 2024: PEPR Cyber -- Project DefMal Webinar (France). Remote (extended version).
+* Apr 2024: [PEPR Cyber -- Project DefMal Webinar (France)](https://www.loria.fr/event/studying-javascript-security-through-static-analysis-detection-of-malicious-and-vulnerable-code-defmal-webinar-with-aurore-fass/). Remote (extended version).
 * Mar 2022: Palo Alto Networks (CA, U.S.). Remote (extended version).
 * Jun 2021: Spirals Webinar at Inria Lille (France). Remote.
 * May 2021: PhD Defense. Remote.
