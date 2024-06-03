@@ -1,0 +1,13 @@
+---
+title: "Peeking through the window: Fingerprinting Browser Extensions through Page-Visible Execution Traces and Interactions"
+collection: publications
+permalink:
+excerpt: ''
+when: October 2024
+date: October 2024
+year: 2024
+authors: Shubham Agarwal, <b>Aurore Fass</b>, and Ben Stock
+venue: 'ACM CCS'
+paperurl: 'https://swag.cispa.saarland/papers/agarwal2024window.pdf'
+citation:
+---
