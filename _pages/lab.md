@@ -20,12 +20,11 @@ Nov 2021--: **[Shubham Agarwal](https://shubh401.github.io)** (Ph.D. student of 
 Oct 2021--: **[Kimberly Ruth](https://kcruth.com)** (Ph.D. student of Zakir Durumeric) -- *Web Browsing Behavior*, Stanford University
 
 
-### Bachelor Students
-
-Oct 2023--: **Ben Rosenzweig** (BSc thesis) -- *Machine Learning-Based Approach for Detecting Malicious Browser Extensions*, Saarland University
-
-
 ### Alumni
+
+### 2023--2024
+
+* **Ben Rosenzweig** (BSc thesis) -- *Machine Learning-Based Approach for Detecting Malicious Browser Extensions*, Saarland University
 
 ### 2022--2023
 

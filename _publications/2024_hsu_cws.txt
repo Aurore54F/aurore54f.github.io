@@ -1,5 +1,5 @@
 ---
-title: "What is in the Chrome Web Store?"
+title: "What is in the Chrome Web Store? Investigating Security-Noteworthy Browser Extensions"
 collection: publications
 permalink:
 excerpt: ''
