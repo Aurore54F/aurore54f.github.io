@@ -10,5 +10,6 @@ authors: Sheryl Hsu, Manda Tran, and <b>Aurore Fass</b>
 venue: 'ACM AsiaCCS'
 acceptance: 22% (65/301 full research papers)
 paperurl: 'https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf'
+media: 'https://aurore54f.github.io/papers/hsu2024cws.media'
 citation:
 ---

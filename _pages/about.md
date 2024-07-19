@@ -25,7 +25,7 @@ What's New?
 [The Register](https://www.theregister.com/2024/06/23/google_chrome_web_store_vetting/),
 [AdGuard](https://adguard.com/en/blog/google-extensions-danger-malware.html),
 [Techspot](https://www.techspot.com/news/103522-researchers-280-million-people-installed-malware-infected-chrome.html),
-and [dozens more](https://aurore54f.github.io/papers/hsu2024cwsmedia).
+and [dozens more](https://aurore54f.github.io/papers/hsu2024cws.media).
 - _Jun 2024_: Excited to be [USENIX Security 2025 Artifact Evaluation Committee Co-Chair](https://www.usenix.org/conference/usenixsecurity25\#organizers) with Phani Vadrevu. We are looking forward to your artifact submissions!
 - _May 2024_: Happy to join as an Associate Editor of the ACM Transactions on Security and Privacy (TOPS). Consider accepting my review request!
 - _Dec 2023_: Our paper ["What is in the Chrome Web Store?"](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf) was accepted at AsiaCCS 2024!

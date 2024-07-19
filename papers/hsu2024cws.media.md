@@ -1,4 +1,4 @@
-Non-exhaustive list of the media coverage of our AsiaCCS 2024 paper "What is in the Chrome Web Store? Investigating Security-Noteworthy Browser Extensions":
+## Non-exhaustive list of the media coverage of our AsiaCCS 2024 paper ["What is in the Chrome Web Store? Investigating Security-Noteworthy Browser Extensions"](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf):
 
 - https://www.theregister.com/2024/06/23/google_chrome_web_store_vetting/
 
@@ -48,7 +48,7 @@ Non-exhaustive list of the media coverage of our AsiaCCS 2024 paper "What is in 
 Interestingly, 2 days after having submitted our paper on [arxiv](https://arxiv.org/abs/2406.12710), Google published a post stating that "In 2024, less than 1% of all installs from the Chrome Web Store were found to include malware. We're proud of this record and yet some bad extensions still get through, which is why we also monitor published extensions." [link](https://security.googleblog.com/2024/06/staying-safe-with-chrome-extensions.html)
 
 
-Articles in German:
+### Articles in German:
 
 - https://nachrichten.idw-online.de/2024/02/16/sicherheitsluecken-bei-browserweiterungen-im-chrome-web-store
 

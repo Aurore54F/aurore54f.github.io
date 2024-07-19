@@ -62,6 +62,9 @@
           {% if post.recording %}
             <a href="{{ post.recording }}" target="_blank" class="btn btn--success" role="button">Recording</a>
           {% endif %}
+          {% if post.media %}
+            <a href="{{ post.media }}" target="_blank" class="btn btn--success" role="button">Media coverage</a>
+          {% endif %}
           {% if post.acceptance %}
           <br><small>Acceptance rate: {{ post.acceptance }}</small>
           {% endif %}
