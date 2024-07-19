@@ -13,3 +13,33 @@ https://www.gew-ansbach.de/data/2024/02/CISPA_Sicherheitsluecken_bei_Browserweit
 - Krankenhaus-IT Journal, March 1, 2024
 Sicherheitslücken bei Browserweiterungen im Chrome Web Store
 https://www.krankenhaus-it.de/item.3084/sicherheitsluecken-bei-browserweiterungen-im-chrome-web-store.html
+
+- The Register, June 23, 2024, by Thomas Claburn
+Risk of getting malicious extension from Chrome store way worse than Google's letting on, study suggests
+https://www.theregister.com/2024/06/23/google_chrome_web_store_vetting/
+
+- Forbes > Innovation > Cybersecurity Study, June 24, Davey Winder
+280 Million Google Chrome Users Installed Dangerous Extensions, Study Says
+https://www.forbes.com/sites/daveywinder/2024/06/24/280-million-google-chrome-users-installed-dangerous-extensions-study-says/
+
+- Techspot, June 24, 2024, Rob Thubron
+Researchers say 280 million people have installed malware-infected Chrome extensions in the last 3 years
+https://www.techspot.com/news/103522-researchers-280-million-people-installed-malware-infected-chrome.html
+
+- Techzine, June 24, 2024, FLORIS HULSHOFF POL
+‘Substantial risk of malicious extensions in Chrome Web Store’
+https://www.techzine.eu/news/security/121520/substantial-risk-of-malicious-extensions-in-chrome-web-store/
+
+- tom's guide, June 24, 2024, Anthony Spadafora
+Malware-filled extensions are a Chrome threat you can’t ignore — reportedly installed by 280 million
+https://www.tomsguide.com/computing/malware-adware/malware-filled-extensions-are-a-chrome-threat-you-cant-ignore-reportedly-installed-by-280-million-over-the-last-three-years
+
+- Computing UK, 25 June, 2024, Graeme Burton
+Google underplaying risk of compromised extensions to Chrome -- Compromised extensions affect almost 350 million users globally
+https://www.computing.co.uk/news/4327340/google-underplaying-risk-compromised-extensions-chrome
+
+- Tech Xplore, June 25, 2024, Bob Yirka
+Security experts find millions of users running malware infected extensions from Google Chrome Web Store
+https://techxplore.com/news/2024-06-experts-millions-users-malware-infected.html
+
+- https://www.msn.com/en-us/news/technology/security-experts-find-millions-of-users-running-malware-infected-extensions-from-google-chrome-web-store/ar-BB1oRUNI?item=themed_featuredapps_enabled%3Floadin&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
