@@ -1,0 +1,14 @@
+---
+title: "Typed and Confused: Studying the Unexpected Dangers of Gradual Typing"
+collection: publications
+permalink:
+excerpt: ''
+when: October 2024
+date: October 2024
+year: 2024
+authors: Dominic Troppmann, <b>Aurore Fass</b>, and Cristian-Alexandru Staicu
+venue: 'IEEE/ACM International Conference on Automated Software Engineering (ASE)'
+acceptance: 26% (155/587 full research papers)
+paperurl: ''
+citation:
+---

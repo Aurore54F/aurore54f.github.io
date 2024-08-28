@@ -1,0 +1,14 @@
+---
+title: "When Adversarial Perturbations meet Concept Drift: an Exploratory Analysis on ML-NIDS"
+collection: publications
+permalink:
+excerpt: ''
+when: October 2024
+date: October 2024
+year: 2024
+authors: Giovanni Apruzzese, <b>Aurore Fass</b>, and Fabio Pierazzi
+venue: 'ACM AISec (CCS Workshop on Artificial Intelligence and Security)'
+acceptance: 25% (18/72 full research papers)
+paperurl: ''
+citation:
+---
