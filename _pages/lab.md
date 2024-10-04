@@ -11,7 +11,7 @@ author_profile: true
 
 ### PostDocs
 
-Upcoming?: **[Ying Yuan](https://sites.google.com/view/yingyuan)** -- *Analysis and Detection of Phishing Websites*
+Upcoming?: **[Dr. Ying Yuan](https://sites.google.com/view/yingyuan)** -- *Analysis and Detection of Phishing Websites*
 
 ### Ph.D. Students
 
@@ -34,7 +34,7 @@ Dec 2024--: **Laith Alhelwane** (MSc student) -- *JavaScript or Browser Extensio
 
 * **[Sheryl Hsu](https://sher222.github.io)** (BSc student) -- *Browser Extension Security* (paper at [AsiaCCS 2024](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf)), Stanford University
 * **[Manda Tran](https://mandatran.github.io)** (MSc student, now Ph.D. student at UCLA) -- *Browser Extension Security* (paper at [AsiaCCS 2024](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf)), Stanford University
-* **[Liz Izhikevich](https://lizizhikevich.github.io)** (Ph.D. student of Zakir Durumeric, now Assistant Professor at UCLA) -- *Cloud Computing, Scanning*, (paper at [ACM IMC 2023](https://publications.cispa.saarland/4040/1/izhikevich2023cloudwatching.pdf)), Stanford University
+* **[Liz Izhikevich](https://lizizhikevich.github.io)** (Ph.D. student of Zakir Durumeric, now Assistant Professor at UCLA) -- *Internet Scanning*, (paper at [ACM IMC 2023](https://publications.cispa.saarland/4040/1/izhikevich2023cloudwatching.pdf)), Stanford University
 
 ### 2021--2023
 

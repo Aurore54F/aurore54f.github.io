@@ -26,7 +26,7 @@ author_profile: true
 * TheWebConf (WWW) -- Security, Privacy, and Trust Track 2023 & 2022
 * ARES 2023 & 2022
 * SecWeb 2024--2021
-* SaTS 2024 & 2023
+* SaTS 2023
 
 
 ## Doctoral Committee
