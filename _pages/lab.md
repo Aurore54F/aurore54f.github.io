@@ -9,27 +9,39 @@ author_profile: true
 
 ## Student Advising and Mentoring
 
+### PostDocs
+
+Upcoming?: **[Ying Yuan](https://sites.google.com/view/yingyuan)** -- *Analysis and Detection of Phishing Websites*, CISPA
+
 ### Ph.D. Students
 
-Apr 2024--: **Valentino Dalla Valle** -- *Fingerprinting, Browser Extension Security*, Saarland University & CISPA
+Apr 2024--: **Valentino Dalla Valle** -- *Browser Extension Security* (paper under submission), Saarland University & CISPA
 
-Dec 2023--: **Dominic Troppmann** -- *Type Checks*, with Cristian-Alexandru Staicu, Saarland University & CISPA
+Dec 2023--: **Dominic Troppmann** -- *Type Checks* (paper at [IEEE/ACM ASE 2024](https://www.staicu.org/publications/ase2024.pdf)), co-supervised with Cristian-Alexandru Staicu, Saarland University & CISPA
 
-Nov 2021--: **[Shubham Agarwal](https://shubh401.github.io)** (Ph.D. student of Ben Stock) -- *Browser Extension Security*, Saarland University & CISPA
+### Research Assistants (HiWis)
 
-Oct 2021--: **[Kimberly Ruth](https://kcruth.com)** (Ph.D. student of Zakir Durumeric) -- *Web Browsing Behavior*, Stanford University
+Dec 2024--: **Laith Alhelwane** (MSc student) -- *JavaScript or Browser Extension Security*, Saarland University & CISPA
 
 
 ### Alumni
 
 ### 2023--2024
 
-* **Ben Rosenzweig** (BSc thesis) -- *Machine Learning-Based Approach for Detecting Malicious Browser Extensions*, Saarland University
+* **Ben Rosenzweig** (BSc thesis) -- *Machine Learning-Based Approach for Detecting Malicious Browser Extensions* (paper under submission), Saarland University
 
 ### 2022--2023
 
 * **[Sheryl Hsu](https://sher222.github.io)** (BSc student) -- *Browser Extension Security* (paper at [AsiaCCS 2024](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf)), Stanford University
 * **Manda Tran** (MSc student) -- *Browser Extension Security* (paper at [AsiaCCS 2024](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf)), Stanford University
+* **[Liz Izhikevich](https://lizizhikevich.github.io)** (Ph.D. student of Zakir Durumeric, now Assistant Professor at UCLA) -- *Cloud Computing, Scanning*, (paper at [ACM IMC 2023](https://publications.cispa.saarland/4040/1/izhikevich2023cloudwatching.pdf)), Stanford University
+
+### 2021--2023
+
+* **[Shubham Agarwal](https://shubh401.github.io)** (Ph.D. student of Ben Stock) -- *Browser Extension Security* (paper at [ACM CCS 2024](https://swag.cispa.saarland/papers/agarwal2024window.pdf)), Saarland University & CISPA
+
+* **[Kimberly Ruth](https://kcruth.com)** (Ph.D. student of Zakir Durumeric) -- *Web Browsing Behavior*, (paper at [ACM IMC 2022](https://publications.cispa.saarland/3786/1/ruth2022browsing.pdf) + paper under submission), Stanford University
+
 
 ### 2022
 
