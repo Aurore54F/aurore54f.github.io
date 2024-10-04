@@ -22,7 +22,7 @@ PS: adding a PS with the full name of the conference where my last paper was pub
 
 ## Datasets
 
-Most of our research prototypes are already available on GitHub, e.g., [DoubleX](https://github.com/Aurore54F/DoubleX), [HideNoSeek](https://github.com/Aurore54F/HideNoSeek), [JStap](https://github.com/Aurore54F/JStap), [JaSt](https://github.com/Aurore54F/JaSt), etc. Other research prototypes can be found [here](https://github.com/Aurore54F?tab=repositories).
+Most of our research prototypes are already available on GitHub, e.g., [DoubleX](https://github.com/Aurore54F/DoubleX), [HideNoSeek](https://github.com/Aurore54F/HideNoSeek), [JStap](https://github.com/Aurore54F/JStap), [JaSt](https://github.com/Aurore54F/JaSt), [etc](https://aurore54f.github.io/publications/). Other research prototypes can be found [here](https://github.com/Aurore54F?tab=repositories).
 
 Some of the datasets we used in our experiments are directly referenced in the corresponding papers.
 For example,

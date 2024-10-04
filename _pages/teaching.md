@@ -9,6 +9,8 @@ author_profile: true
 
 ## Courses
 
+### WS 2024--2025: The Web Security Seminar
+
 ### SS 2024: The Web Security Seminar
 
 ### WS 2023--2024: The Web Security Seminar
