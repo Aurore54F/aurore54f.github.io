@@ -9,6 +9,7 @@ year: 2024
 authors: Giovanni Apruzzese, <b>Aurore Fass</b>, and Fabio Pierazzi
 venue: 'ACM AISec (CCS Workshop on Artificial Intelligence and Security)'
 acceptance: 25% (18/72 full research papers)
-paperurl: ''
+paperurl: 'https://www.giovanniapruzzese.com/files/papers/aisec24/aisec24.pdf'
+code: 'https://github.com/hihey54/aisec24'
 citation:
 ---

@@ -12,13 +12,15 @@ I am a Tenure-Track Faculty at [CISPA Helmholtz Center for Information Security]
 My research broadly focuses on Web security and privacy, Web measurements, and machine learning. Specifically, I design practical approaches to protect the security and privacy of Web users. I build systems to proactively detect malicious JavaScript code and suspicious browser extensions. I analyze data to understand how people spend time on the Web, and I want to use the resulting perspective to prioritize defense strategies.
 
 Before that, I was a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu) (2021--2023), in the [Empirical Security Research Group](https://esrg.stanford.edu), led by [Zakir Durumeric](https://zakird.com).
-Prior to that, I was a PhD student at CISPA (2018-2021), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My PhD thesis revolves around studying JavaScript security through static analysis.
+Prior to that, I was a PhD student at CISPA (2018-2021), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My [PhD thesis](https://publications.cispa.saarland/3471/7/fass2020thesis.pdf) revolves around studying JavaScript security through static analysis.
 
 Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honor to give the valedictorian speech (2017). In particular, I wrote my master thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
 
 
 What's New?
 ======
+- _Aug 2024_: Our paper ["Typed and Confused: Studying the Unexpected Dangers of Gradual Typing"](https://www.staicu.org/publications/ase2024.pdf) got accepted at IEEE/ACM ASE 2024, and it has been awarded the "Available" and "Reusable" badges!
+- _Aug 2024_: Our paper ["When Adversarial Perturbations meet Concept Drift: an Exploratory Analysis on ML-NIDS"](https://www.giovanniapruzzese.com/files/papers/aisec24/aisec24.pdf) got accepted at ACM AISec 2024!
 - _Jul 2024_: Happy to have gotten (yet another :)) Reviewer Recognition: [Noteworthy Reviewer at EuroS&P 2024](https://eurosp2024.ieee-security.org/committee-program.html)!
 - _Jun 2024_: Our AsiaCCS 2024 paper ["What is in the Chrome Web Store? Investigating Security-Noteworthy Browser Extensions"](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf) got **a lot** of media coverage!
 [Forbes](https://www.forbes.com/sites/daveywinder/2024/06/24/280-million-google-chrome-users-installed-dangerous-extensions-study-says/),
@@ -27,6 +29,7 @@ What's New?
 [Techspot](https://www.techspot.com/news/103522-researchers-280-million-people-installed-malware-infected-chrome.html),
 and [dozens more](https://aurore54f.github.io/papers/hsu2024cws.media).
 - _Jun 2024_: Excited to be [USENIX Security 2025 Artifact Evaluation Committee Co-Chair](https://www.usenix.org/conference/usenixsecurity25\#organizers) with Phani Vadrevu. We are looking forward to your artifact submissions!
+- _May 2024_: Our paper ["Peeking through the window: Fingerprinting Browser Extensions through Page-Visible Execution Traces and Interactions"](https://swag.cispa.saarland/papers/agarwal2024window.pdf) was accepted at ACM CCS 2024!
 - _May 2024_: Happy to join as an Associate Editor of the ACM Transactions on Security and Privacy (TOPS). Consider accepting my review request!
 - _Dec 2023_: Our paper ["What is in the Chrome Web Store?"](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf) was accepted at AsiaCCS 2024!
 - _Dec 2023_: Thrilled and grateful to have received a [Top Reviewer Award](https://www.acsac.org/2023/files/web/acsac23-programchairs-opening.pdf) for the second time in one week! This time at ACSAC 2023.
