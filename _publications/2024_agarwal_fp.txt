@@ -8,6 +8,7 @@ date: October 2024
 year: 2024
 authors: Shubham Agarwal, <b>Aurore Fass</b>, and Ben Stock
 venue: 'ACM CCS'
+acceptance: 18% (129/710 full research papers, Cycle A)
 paperurl: 'https://swag.cispa.saarland/papers/agarwal2024window.pdf'
 code: 'https://github.com/raider-ext/raider'
 citation:

@@ -19,7 +19,7 @@ author_profile: true
 ## Program Committee
 
 * USENIX Security 2025 & 2024
-* ACM CCS -- Web Security Track 2024--2021
+* ACM CCS -- Web Security Track 2025--2021
 * IEEE EuroS&P 2024 & 2023
 * ACSAC 2024 & 2023
 * IEEE S&P 2023

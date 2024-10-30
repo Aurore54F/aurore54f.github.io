@@ -9,10 +9,6 @@ author_profile: true
 
 ## Student Advising and Mentoring
 
-### PostDocs
-
-Upcoming?: **[Dr. Ying Yuan](https://sites.google.com/view/yingyuan)** -- *Analysis and Detection of Phishing Websites*
-
 ### Ph.D. Students
 
 Apr 2024--: **Valentino Dalla Valle** -- *Browser Extension Security* (paper under submission), Saarland University & CISPA
