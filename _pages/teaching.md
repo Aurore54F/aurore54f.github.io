@@ -9,6 +9,9 @@ author_profile: true
 
 ## Courses
 
+### WS 2024--2025: Guest Lecture at the University of Modena and Reggio Emilia
+* Web Security & Security of Browser Extensions (upcoming)
+
 ### WS 2024--2025: The Web Security Seminar
 
 ### SS 2024: The Web Security Seminar
