@@ -28,7 +28,7 @@ author_profile: true
 
 
 ## <span style="color:rgb(0, 119, 181)"> Dos and Don'ts of Reviewing  </span>
-* Nov 2024: Keynote at the Winter School, WinterHack 2024. Bochum, Germany.
+* Nov 2024: Keynote at the Winter School, WinterHack 2024. Bochum, Germany. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024reviewing-winterhack.talk.pdf)
 
 
 ## <span style="color:rgb(0, 119, 181)"> Browser Extension (In)Security  </span>
