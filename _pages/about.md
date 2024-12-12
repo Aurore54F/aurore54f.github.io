@@ -19,6 +19,7 @@ Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM
 
 What's New?
 ======
+- _Dec 2024_: Thrilled and grateful to have received a [Distinguished Reviewer Award](https://x.com/ACSAC_Conf/status/1866920426783277194) at ACSAC 2024, for the second year in a row!
 - _Aug 2024_: Our paper ["Typed and Confused: Studying the Unexpected Dangers of Gradual Typing"](https://www.staicu.org/publications/ase2024.pdf) got accepted at IEEE/ACM ASE 2024, and it has been awarded the "Available" and "Reusable" badges!
 - _Aug 2024_: Our paper ["When Adversarial Perturbations meet Concept Drift: an Exploratory Analysis on ML-NIDS"](https://www.giovanniapruzzese.com/files/papers/aisec24/aisec24.pdf) got accepted at ACM AISec 2024!
 - _Jul 2024_: Happy to have gotten (yet another :)) Reviewer Recognition: [Noteworthy Reviewer at EuroS&P 2024](https://eurosp2024.ieee-security.org/committee-program.html)!
