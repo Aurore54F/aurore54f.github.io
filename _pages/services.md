@@ -31,8 +31,8 @@ author_profile: true
 
 ## Doctoral Committee
 
-* Jean Luc Intumwayase (Ph.D., Computer Science, Université de Lille, December 2024)
-* Romain Fouquet (Ph.D., Computer Science, Université de Lille, May 2023)
+* Jean Luc Intumwayase (Ph.D., Computer Science, Universite de Lille, December 2024)
+* Romain Fouquet (Ph.D., Computer Science, Universite de Lille, May 2023)
 
 
 ## Project Proposal
