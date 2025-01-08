@@ -1,0 +1,14 @@
+---
+title: "SoK: On the Offensive Potential of AI"
+collection: publications
+permalink:
+excerpt: ''
+when: April 2025
+date: April 2025
+year: 2025
+authors: Saskia Laura Schroer, Giovanni Apruzzese, Soheil Human, Pavel Laskov, Hyrum S. Anderson, Edward W.N. Bernroider, <b>Aurore Fass</b>, Ben Nassi, Vera Rimmer, Fabio Roli, Samer Salam, Ashley Shen, Ali Sunyaev, Isabel Wagner, Gang Wang, and Tim Wadhwa-Brown
+venue: 'IEEE Secure and Trustworthy Machine Learning Conference (SaTML)'
+acceptance: 29.4% (53/180 full research papers)
+paperurl: 'https://www.giovanniapruzzese.com/files/papers/satml25/satml25.pdf'
+citation:
+---

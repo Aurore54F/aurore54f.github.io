@@ -32,6 +32,7 @@ author_profile: true
 
 
 ## <span style="color:rgb(0, 119, 181)"> Browser Extension (In)Security  </span>
+* Jan 2025: Privatics Seminar at Inria Sophia Antipolis. Sophia Antipolis, France.
 * Dec 2024: Spirals Seminar at Inria Lille. Lille, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024browserextensions-spirals.talk.pdf)
 * Jun 2024: [GDR Information Security](https://gdr-secu-jn2024.sciencesconf.org). Rennes, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024browserextensions-gdr.talk.pdf)
 
