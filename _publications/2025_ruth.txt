@@ -1,0 +1,13 @@
+---
+title: "'Perfect is the Enemy of Good': The CISO's Role in Enterprise Security as a Business Enabler"
+collection: publications
+permalink:
+excerpt: ''
+when: April 2025
+date: April 2025
+year: 2025
+authors: Kimberly Ruth, Veronica Rivera, Gautam Akiwate, <b>Aurore Fass</b>, Patrick Gage Kelley, Kurt Thomas, and Zakir Durumeric
+venue: 'ACM CHI'
+paperurl: 'https://zakird.com/papers/chi25-ciso.pdf'
+citation:
+---
