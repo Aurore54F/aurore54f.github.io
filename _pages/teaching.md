@@ -9,8 +9,9 @@ author_profile: true
 
 ## Courses
 
-### WS 2024--2025: Guest Lecture at the University of Modena and Reggio Emilia
-* Browser Extension (In)Security &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024browserextensions-modena.talk.pdf)
+### WS 2024--2025: Guest Lectures:
+* at the University of Bologna: On the Security and Privacy Risks of Browser Extensions &nbsp; [Slides](https://aurore54f.github.io/papers/fass2025browserextensions-bologna.talk.pdf)
+* at the University of Modena and Reggio Emilia: Browser Extension (In)Security &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024browserextensions-modena.talk.pdf)
 
 ### WS 2024--2025: The Web Security Seminar
 
