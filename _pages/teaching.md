@@ -9,6 +9,8 @@ author_profile: true
 
 ## Courses
 
+### SS 2025: The Web Security Seminar
+
 ### WS 2024--2025: Guest Lectures:
 * at the University of Bologna: On the Security and Privacy Risks of Browser Extensions &nbsp; [Slides](https://aurore54f.github.io/papers/fass2025browserextensions-bologna.talk.pdf)
 * at the University of Modena and Reggio Emilia: Browser Extension (In)Security &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024browserextensions-modena.talk.pdf)
