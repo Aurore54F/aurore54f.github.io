@@ -11,13 +11,17 @@ author_profile: true
 
 ### Ph.D. Students
 
+Apr 2025--: **Huda Dawoud** -- *Browser Extension Analysis*, CISPA
+
 Apr 2024--: **Valentino Dalla Valle** -- *Browser Extension Security* (paper under submission), Saarland University & CISPA
 
 Dec 2023--: **Dominic Troppmann** -- *Type Checks* (paper at [IEEE/ACM ASE 2024](https://www.staicu.org/publications/ase2024.pdf)), co-supervised with Cristian-Alexandru Staicu, Saarland University & CISPA
 
 ### Research Assistants (HiWis)
 
-Dec 2024--: **Laith Alhelwane** (MSc student) -- *JavaScript or Browser Extension Security*, Saarland University
+Mar 2024--: **Abdullah Hassan Chaudhry** (MSc student) -- *Browser Extension Security*, Saarland University
+
+Dec 2024--: **Laith Alhelwane** (MSc student) -- *Browser Extension Security*, Saarland University
 
 
 ### Alumni

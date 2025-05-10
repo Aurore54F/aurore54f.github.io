@@ -19,6 +19,7 @@ Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM
 
 What's New?
 ======
+- _Mar 2025_: Our paper ["'Perfect is the Enemy of Good': The CISO's Role in Enterprise Security as a Business Enabler"](https://zakird.com/papers/chi25-ciso.pdf) got accepted at ACM CHI 2025!
 - _Dec 2024_: Our paper ["SoK: On the Offensive Potential of AI"](https://www.giovanniapruzzese.com/files/papers/satml25/satml25.pdf) got accepted at IEEE SaTML 2025!
 - _Dec 2024_: Thrilled and grateful to have received a [Distinguished Reviewer Award](https://x.com/ACSAC_Conf/status/1866920426783277194) at ACSAC 2024, for the second year in a row!
 - _Aug 2024_: Our paper ["Typed and Confused: Studying the Unexpected Dangers of Gradual Typing"](https://www.staicu.org/publications/ase2024.pdf) got accepted at IEEE/ACM ASE 2024, and it has been awarded the "Available" and "Reusable" badges!
