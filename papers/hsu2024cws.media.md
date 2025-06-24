@@ -1,5 +1,7 @@
 ## Non-exhaustive list of the media coverage of our AsiaCCS 2024 paper ["What is in the Chrome Web Store? Investigating Security-Noteworthy Browser Extensions"](https://publications.cispa.saarland/4057/1/2024_hsu_cws.pdf):
 
+- Podcast: https://www.strikegraph.com/secure-talk-podcast/security-threats-from-the-chrome-web-store-with-sheryl-tsu
+
 - https://www.theregister.com/2024/06/23/google_chrome_web_store_vetting/
 
 - https://www.forbes.com/sites/daveywinder/2024/06/24/280-million-google-chrome-users-installed-dangerous-extensions-study-says/

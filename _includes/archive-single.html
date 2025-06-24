@@ -65,6 +65,9 @@
           {% if post.media %}
             <a href="{{ post.media }}" target="_blank" class="btn btn--success" role="button">Media coverage</a>
           {% endif %}
+          {% if post.podcast %}
+            <a href="{{ post.podcast }}" target="_blank" class="btn btn--success" role="button">Podcast</a>
+          {% endif %}
           {% if post.acceptance %}
           <br><small>Acceptance rate: {{ post.acceptance }}</small>
           {% endif %}
