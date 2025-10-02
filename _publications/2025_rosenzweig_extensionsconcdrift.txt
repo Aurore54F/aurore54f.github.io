@@ -1,0 +1,14 @@
+---
+title: "It's not Easy: Applying Supervised Machine Learning to Detect Malicious Extensions in the Chrome Web Store"
+collection: publications
+permalink:
+excerpt: ''
+when: October 2025
+date: October 2025
+year: 2025
+authors: Ben Rosenzweig, Valentino Dalla Valle, Giovanni Apruzzese, and <b>Aurore Fass</b>
+venue: 'ACM Transactions on the Web (TWEB)'
+paperurl: 'https://aurore54f.github.io/papers/2025-tweb_rosenzweig_extensionsconcdrift'
+code: 'https://github.com/its-not-easy/tweb25/tree/main'
+citation:
+---

@@ -1,0 +1,12 @@
+---
+title: "CookieGuard: Characterizing and Isolating the First-Party Cookie Jar"
+collection: publications
+permalink:
+excerpt: ''
+when: October 2025
+date: October 2025
+year: 2025
+authors: Pouneh Nikkhah Bahrami, <b>Aurore Fass</b>, and Zubair Shafiq
+venue: 'ACM IMC'
+citation:
+---
