@@ -19,7 +19,9 @@ Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM
 
 What's New?
 ======
-- _Aug 2025_: Thrilled and grateful to have received a [Distinguished Reviewer Award](https://www.usenix.org/sites/default/files/sec25_message.pdf) at USENIX Security 2025!
+- _Oct 2025_: Thrilled and grateful to have received (another) [Top Reviewer Award](https://www.sigsac.org/ccs/CCS2025/awards/) at ACM CCS 2025!
+- _Sep 2025_: Our paper ["It's not Easy: Applying Supervised Machine Learning to Detect Malicious Extensions in the Chrome Web Store"](https://aurore54f.github.io/papers/2025-tweb_rosenzweig_extensionsconcdrift.pdf) got accepted at ACM TWEB! We also made the source code and feature set [publicly available](https://github.com/its-not-easy/tweb25/tree/main). Enjoy!
+- _Aug 2025_: Thrilled and grateful to have received a [Distinguished Reviewer Award](https://www.usenix.org/sites/default/files/sec25_message_addendum.pdf) at USENIX Security 2025!
 - _Mar 2025_: Our paper ["'Perfect is the Enemy of Good': The CISO's Role in Enterprise Security as a Business Enabler"](https://zakird.com/papers/chi25-ciso.pdf) got accepted at ACM CHI 2025!
 - _Dec 2024_: Our paper ["SoK: On the Offensive Potential of AI"](https://www.giovanniapruzzese.com/files/papers/satml25/satml25.pdf) got accepted at IEEE SaTML 2025!
 - _Dec 2024_: Thrilled and grateful to have received a [Distinguished Reviewer Award](https://x.com/ACSAC_Conf/status/1866920426783277194) at ACSAC 2024, for the second year in a row!
