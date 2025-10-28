@@ -8,5 +8,6 @@ date: October 2025
 year: 2025
 authors: Pouneh Nikkhah Bahrami, <b>Aurore Fass</b>, and Zubair Shafiq
 venue: 'ACM IMC'
+paperurl: 'https://aurore54f.github.io/papers/2025-imc_bahrami_cookieguard.pdf'
 citation:
 ---
