@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Open positions"
-    url: /positions/
+#  - title: "Open positions"
+#    url: /positions/
 
   - title: "Contact me"
     url: /contact/
