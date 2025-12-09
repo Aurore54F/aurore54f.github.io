@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Tenure-Track Faculty at [CISPA Helmholtz Center for Information Security](https://cispa.de)
+I am a Tenured Researcher at the [Inria Centre at Universite Cote d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (France).
 My research broadly focuses on Web security and privacy, Web measurements, and machine learning. Specifically, I design practical approaches to protect the security and privacy of Web users. I build systems to proactively detect malicious JavaScript code and suspicious browser extensions. I analyze data to understand how people spend time on the Web, and I want to use the resulting perspective to prioritize defense strategies.
 
-Before that, I was a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu) (2021--2023), in the [Empirical Security Research Group](https://esrg.stanford.edu), led by [Zakir Durumeric](https://zakird.com).
-Prior to that, I was a PhD student at CISPA (2018-2021), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My [PhD thesis](https://publications.cispa.saarland/3471/7/fass2020thesis.pdf) revolves around studying JavaScript security through static analysis.
+Before that, I was a Tenure-Track Faculty (W2) at [CISPA Helmholtz Center for Information Security](https://cispa.de) (Germany, 2023--2025), where I was leading my research group.
+Prior to that, I was a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu) (U.S., 2021--2023), in the [Empirical Security Research Group](https://esrg.stanford.edu), led by [Zakir Durumeric](https://zakird.com).
+Before that, I was a PhD student at CISPA (2018-2021), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My [PhD thesis](https://publications.cispa.saarland/3471/7/fass2020thesis.pdf) revolves around studying JavaScript security through static analysis.
 
 Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honor to give the valedictorian speech (2017). In particular, I wrote my master thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
 
 
 What's New?
 ======
+- _Dec 2025_: Incredibly excited to share that I have joined the [Inria Centre at Universite Cote d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) as a Tenured Researcher! I will continue my research on Web Security & Privacy, with a specific focus on JavaScript (in)security and browser extensions. At Inria, I will be creating a new research team together with [Nataliia Bielova](https://www-sop.inria.fr/members/Nataliia.Bielova/).
 - _Oct 2025_: Thrilled and grateful to have received (another) [Top Reviewer Award](https://www.sigsac.org/ccs/CCS2025/awards/) at ACM CCS 2025!
 - _Sep 2025_: Our paper ["It's not Easy: Applying Supervised Machine Learning to Detect Malicious Extensions in the Chrome Web Store"](https://aurore54f.github.io/papers/2025-tweb_rosenzweig_extensionsconcdrift.pdf) got accepted at ACM TWEB! We also made the source code and feature set [publicly available](https://github.com/its-not-easy/tweb25/tree/main). Enjoy!
 - _Aug 2025_: Thrilled and grateful to have received a [Distinguished Reviewer Award](https://www.usenix.org/sites/default/files/sec25_message_addendum.pdf) at USENIX Security 2025!
