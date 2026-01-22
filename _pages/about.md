@@ -20,6 +20,7 @@ Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM
 
 What's New?
 ======
+- _Dec 2025_: For the third time this year, I am very excited to have received a Distinguished Reviewer Award, this time at ACSAC 2025! I was in three PCs in 2025 (USENIX Security, ACM CCS, and ACSAC), and I got a Top Reviewer Award for each!
 - _Dec 2025_: Incredibly excited to share that I have joined the [Inria Centre at Universite Cote d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) as a Tenured Researcher! I will continue my research on Web Security & Privacy, with a specific focus on JavaScript (in)security and browser extensions. At Inria, I will be creating a new research team together with [Nataliia Bielova](https://www-sop.inria.fr/members/Nataliia.Bielova/).
 - _Oct 2025_: Thrilled and grateful to have received (another) [Top Reviewer Award](https://www.sigsac.org/ccs/CCS2025/awards/) at ACM CCS 2025!
 - _Sep 2025_: Our paper ["It's not Easy: Applying Supervised Machine Learning to Detect Malicious Extensions in the Chrome Web Store"](https://aurore54f.github.io/papers/2025-tweb_rosenzweig_extensionsconcdrift.pdf) got accepted at ACM TWEB! We also made the source code and feature set [publicly available](https://github.com/its-not-easy/tweb25/tree/main). Enjoy!
