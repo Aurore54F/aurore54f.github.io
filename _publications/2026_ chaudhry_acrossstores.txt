@@ -1,0 +1,14 @@
+---
+title: "Two Heads are Better Than One: Analysing Browser Extensions Across Stores"
+collection: publications
+permalink:
+excerpt: ''
+when: February 2026
+date: February 2026
+year: 2026
+authors: Abdullah Hassan Chaudhry, Valentino Dalla Valle, and <b>Aurore Fass</b>
+venue: 'MADWeb (workshop co-located with NDSS'
+paperurl: 'https://aurore54f.github.io/papers/2026-madweb_chaudhry.pdf'
+code: 'https://github.com/abdchau/two-heads-are-better'
+citation:
+---

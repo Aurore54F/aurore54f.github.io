@@ -3,8 +3,8 @@ title: "It's not Easy: Applying Supervised Machine Learning to Detect Malicious 
 collection: publications
 permalink:
 excerpt: ''
-when: October 2025
-date: October 2025
+when: February 2026
+date: February 2026
 year: 2026
 authors: Ben Rosenzweig, Valentino Dalla Valle, Giovanni Apruzzese, and <b>Aurore Fass</b>
 venue: 'ACM Transactions on the Web (TWEB)'
