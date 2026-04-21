@@ -9,6 +9,6 @@ year: 2023
 authors: Liz Izhikevich, Manda Tran, Michalis Kallitsis, <b>Aurore Fass</b>, and Zakir Durumeric
 venue: 'ACM Internet Measurement Conference (IMC)'
 acceptance: 25% (52/208 full research papers)
-paperurl: 'https://publications.cispa.saarland/4040/1/izhikevich2023cloudwatching.pdf'
+paperurl: 'https://lizizhikevich.github.io/assets/papers/Cloud_Watching.pdf'
 citation:
 ---
