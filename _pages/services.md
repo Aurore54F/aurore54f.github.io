@@ -10,6 +10,7 @@ author_profile: true
 
 ## Organizing Role
 
+* USENIX Security Vice Chair 2027
 * [USENIX Security **Artifact Evaluation Committee Co-Chair** 2026 & 2025](https://www.usenix.org/conference/usenixsecurity25\#organizers)
 * **Associate Editor** of the ACM Transactions on Security and Privacy (TOPS) 2025 & 2024
 * [ACM CCS **Workshop General Co-Chair** 2024](https://www.sigsac.org/ccs/CCS2024/organization/organizing-committee.html)
