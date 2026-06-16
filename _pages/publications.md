@@ -27,16 +27,23 @@ author_profile: true
 </p>
 
 
-## <span style="color:rgb(0, 119, 181)"> Dos and Don'ts of Reviewing  </span>
-* Nov 2024: Keynote at the Winter School, WinterHack 2024. Bochum, Germany. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024reviewing-winterhack.talk.pdf)
+## <span style="color:rgb(0, 119, 181)"> On the Security and Privacy Risks of Browser Extensions  </span>
+* Jun 2026 (upcoming): [Seminar@SystemX](https://www.irt-systemx.fr/evenement/seminarsystemx-anime-par-aurore-fass/). Remote.
+* Jun 2026: Plugin Seminar at the Inria Centre at Université Grenoble Alpes. Montbonnot-Saint-Martin, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-plugin.talk.pdf) (Recording to come...)
+* Jun 2026: Keynote at [APVP](https://apvp2026.sciencesconf.org/program). Trégastel, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-apvp.talk.pdf)
+* May 2026: Keynote at [RESSI](https://ressi2026.sciencesconf.org/program). Clervaux, Luxembourg. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-ressi.talk.pdf)
+* Mar 2026: [PrivaSki Seminar](https://team.inria.fr/privatics/privacy-alpine-seminar-2026-aka-privaski/). Correncon en Vercors, France (short version). &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-privaski.talk.pdf)
+* Jan 2026: [Keynote at the GDR RSD / ASF Winter School on Distributed Systems & Networks 2026](https://sites.google.com/site/rsdwinterschool/program-2026). Pleynet, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-winterschool.talk.pdf)
 
 
 ## <span style="color:rgb(0, 119, 181)"> Browser Extension (In)Security  </span>
-* Mar 2026: [PrivaSki Seminar](https://team.inria.fr/privatics/privacy-alpine-seminar-2026-aka-privaski/). Correncon en Vercors, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-privaski.talk.pdf)
-* Jan 2026: [Keynote at the GDR RSD / ASF Winter School on Distributed Systems & Networks 2026](https://sites.google.com/site/rsdwinterschool/program-2026). Pleynet, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-winterschool.talk.pdf)
 * Jan 2025: Seminar at Inria Sophia Antipolis. Sophia Antipolis, France.
 * Dec 2024: Spirals Seminar at Inria Lille. Lille, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024browserextensions-spirals.talk.pdf)
 * Jun 2024: [GDR Information Security](https://gdr-secu-jn2024.sciencesconf.org). Rennes, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024browserextensions-gdr.talk.pdf)
+
+
+## <span style="color:rgb(0, 119, 181)"> Dos and Don'ts of Reviewing  </span>
+* Nov 2024: Keynote at the Winter School, WinterHack 2024. Bochum, Germany. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2024reviewing-winterhack.talk.pdf)
 
 
 ## <span style="color:rgb(0, 119, 181)"> DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale  </span>
