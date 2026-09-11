@@ -9,8 +9,11 @@ main:
   - title: "Community Services"
     url: /services/
 
-  - title: "Students"
+  - title: "Lab"
     url: /lab/
+
+  - title: "Grants"
+    url: /grants/
 
   - title: "Teaching"
     url: /teaching/
@@ -23,9 +26,6 @@ main:
 
 #  - title: "Misc."
 #    url: /misc/
-
-#  - title: "Talks"
-#    url: /talks/
     
 #  - title: "Portfolio"
 #    url: /portfolio/
