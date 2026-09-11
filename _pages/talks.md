@@ -5,27 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=NuD8rUoAAAAJ">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-
-<style>
-  .bottom-one {margin-bottom: 1cm;}
-  .bottom-two {margin-bottom: 3cm;}
-</style>
-
-<p class="bottom-two">
-<h1 class="page__title">Additional Talks</h1>
-</p>
-
 
 ## <span style="color:rgb(0, 119, 181)"> On the Security and Privacy Risks of Browser Extensions  </span>
 * Jul 2026: [Dagstuhl Seminar 26291](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26291). Wadern, Germany. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-dagstuhl.talk.pdf)
