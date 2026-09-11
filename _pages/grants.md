@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "grants & Research Grants"
-permalink: /lab/
+permalink: /grants/
 author_profile: true
 ---
 
