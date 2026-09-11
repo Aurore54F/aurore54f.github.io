@@ -10,14 +10,15 @@ author_profile: true
 
 ## Organizing Role
 
-* USENIX Security Vice Chair 2027
-* [USENIX Security **Artifact Evaluation Committee Co-Chair** 2026 & 2025](https://www.usenix.org/conference/usenixsecurity25\#organizers)
-* **Associate Editor** of the ACM Transactions on Security and Privacy (TOPS) 2025 & 2024
+* [USENIX Security **Vice Chair** 2027](https://www.usenix.org/conference/usenixsecurity27\#organizers)
+* [USENIX Security **Artifact Evaluation Committee Co-Chair** 2026](https://www.usenix.org/conference/usenixsecurity26\#organizers) & [2025](https://www.usenix.org/conference/usenixsecurity25\#organizers)
+* [**Associate Editor** of the ACM Transactions on Security and Privacy (TOPS) 2025 & 2024](https://dl.acm.org/journal/tops/editorial-board)
 * [ACM CCS **Workshop General Co-Chair** 2024](https://www.sigsac.org/ccs/CCS2024/organization/organizing-committee.html)
 * MADWeb (workshop co-located with NDSS) 2024 & 2023 **PC Co-Chair**, [MADWeb 2025-- **Steering Committee**](https://madweb.work)
 
 
 ## Program Committee
+
 
 * ACM CCS -- Web Security Track 2026--2021
 * ACSAC 2026--2023
@@ -28,6 +29,8 @@ author_profile: true
 * ARES 2023 & 2022
 * SecWeb 2024--2021
 * SaTS 2023
+
+**I have received multiple Distinguished Reviewer Awards and Recognitions (at ACM CCS 2025 & 2023 & 2022, USENIX Security 2025, ACSAC 2025 & 2024 & 2023, EuroS&P 2024, and TheWebConf 2022).**
 
 
 ## Doctoral Committee

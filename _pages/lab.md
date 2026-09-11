@@ -7,20 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
-## Student Advising and Mentoring
+[Nataliia Bielova](https://www-sop.inria.fr/members/Nataliia.Bielova/) and I are creating a new team at the Inria Centre at Universite Cote d'Azur.
 
-### Ph.D. Students
+**I am currently looking for a PhD student (start date: anytime in 2027) and a Postdoctoral researcher (start date: anytime in 2027 or 2028).**
 
-Apr 2024--: **Valentino Dalla Valle** -- *Browser Extension Security* (paper at [ACM TWEB 2026](https://aurore54f.github.io/papers/2025-tweb_rosenzweig_extensionsconcdrift.pdf) + under submission), Saarland University & CISPA
 
-Dec 2023--: **Dominic Troppmann** -- *Type Checks* (paper at [IEEE/ACM ASE 2024](https://www.staicu.org/publications/ase2024.pdf)), co-supervised with Cristian-Alexandru Staicu, Saarland University & CISPA
+# Student Advising and Mentoring (current and past)
 
-### Research Assistants (HiWis)
+I left CISPA (Germany) at the end of November 2025 and joined Inria in December 2025. My PhD students and research assistant are still physically located at CISPA and Saarland University:
+
+
+## Ph.D. Students
+
+Apr 2024--: **Valentino Dalla Valle** -- *Browser Extension Security* (paper at [ACM TWEB 2026](https://aurore54f.github.io/papers/2025-tweb_rosenzweig_extensionsconcdrift.pdf) + papers under submission), Saarland University & CISPA
+
+Dec 2023--: **Dominic Troppmann** -- *Type Checks* (paper at [IEEE/ACM ASE 2024](https://www.staicu.org/publications/ase2024.pdf) + under submission), co-supervised with Cristian-Alexandru Staicu, Saarland University & CISPA
+
+## Research Assistants (HiWis)
 
 Dec 2024--: **Laith Alhelwane** (MSc student) -- *Browser Extension Security*, Saarland University
 
 
-### Alumni
+## Alumni
 
 ### 2025--2026
 

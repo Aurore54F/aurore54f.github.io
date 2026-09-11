@@ -8,7 +8,7 @@ author_profile: true
 
 ## <span style="color:rgb(0, 119, 181)"> On the Security and Privacy Risks of Browser Extensions  </span>
 * Jul 2026: [Dagstuhl Seminar 26291](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26291). Wadern, Germany. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-dagstuhl.talk.pdf)
-* Jun 2026: [Seminar@SystemX](https://www.irt-systemx.fr/evenement/seminarsystemx-anime-par-aurore-fass/). Remote. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-systemx.talk.pdf) (Recording to come...)
+* Jun 2026: [Seminar@SystemX](https://www.irt-systemx.fr/evenement/seminarsystemx-anime-par-aurore-fass/). Remote. &nbsp; [Recording](https://www.youtube.com/watch?v=-TV2UB4OUJ4) &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-systemx.talk.pdf)
 * Jun 2026: Plugin Seminar at the Inria Centre at Université Grenoble Alpes. Montbonnot-Saint-Martin, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-plugin.talk.pdf) (Recording to come...)
 * Jun 2026: Keynote at [APVP](https://apvp2026.sciencesconf.org/program). Trégastel, France. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-apvp.talk.pdf)
 * May 2026: Keynote at [RESSI](https://ressi2026.sciencesconf.org/program). Clervaux, Luxembourg. &nbsp; [Slides](https://aurore54f.github.io/papers/fass2026browserextensions-ressi.talk.pdf)
