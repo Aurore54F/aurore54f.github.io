@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Tenured Researcher at the [Inria Centre at Universite Cote d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (France).
+I am a Tenured Researcher at the [Inria Centre at Universite Cote d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (France), since December 2025.
 My research broadly focuses on Web security and privacy, Web measurements, and machine learning. Specifically, I design practical approaches to protect the security and privacy of Web users. I build systems to proactively detect malicious JavaScript code and suspicious browser extensions. I analyze data to understand how people spend time on the Web, and I want to use the resulting perspective to prioritize defense strategies.
 
 Before that, I was a Tenure-Track Faculty (W2) at [CISPA Helmholtz Center for Information Security](https://cispa.de) (Germany, 2023--2025), where I was leading my research group.
 Prior to that, I was a Visiting Assistant Professor of Computer Science at [Stanford University](https://cs.stanford.edu) (U.S., 2021--2023), in the [Empirical Security Research Group](https://esrg.stanford.edu), led by [Zakir Durumeric](https://zakird.com).
-Before that, I was a PhD student at Saarland University & CISPA (2018-2021), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My [PhD thesis](https://publications.cispa.saarland/3471/7/fass2020thesis.pdf) revolves around studying JavaScript security through static analysis.
+Before that, I was a PhD student at Saarland University & CISPA (2018-2021), in the [Secure Web Applications Group](https://swag.cispa.saarland), jointly supervised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) and [Michael Backes](https://cispa.de/en/people/backes). My [PhD thesis](https://aurore54f.github.io/papers/fass2020thesis.pdf) revolves around studying JavaScript security through static analysis.
+Prior to that, I was a master student at the French Grande Ecole [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honor to give the valedictorian speech (2017). In particular, I wrote my master thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
 
-Before joining CISPA, I was a master student at the French Grande Ecole [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/en), where I had the honor to give the valedictorian speech (2017). In particular, I wrote my master thesis at the German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/)) under the supervision of [Isabelle Chrisment](https://members.loria.fr/IChrisment/) and Robert Krawczyk.
+I frequently deliver invited talks and keynotes both at academic and non-academic venues, see ["Talks"](https://aurore54f.github.io/talks/). I am also an active contributor to the research community, holding chairing and editorial roles for top-tier security and privacy venues (I am currently a Vice Chair at USENIX Security 2027); I regularly serve on the program committees of those conferences, where I have received multiple Distinguished Reviewer Awards and Recognitions, see ["Community Services"](https://aurore54f.github.io/services/).
 
 
 What's New?
