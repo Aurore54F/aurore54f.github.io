@@ -15,6 +15,7 @@ author_profile: true
 If you contact me about an open positions (PhD, postdoc, or internship), please include the following documents in your email:
 - your CV **as a PDF** (please do not send links to your CV; I will not click on them);
 - your transcript **as a PDF**.
+
 In your email, **explain specifically which aspects of my research interest you and how your background could contribute to the work of the lab**. For example, identify specific project(s) or publication(s) of mine that interest you and explain what you could contribute.
 
 **I will not respond to generic or impersonal emails, e.g., emails that do not include my name or are a clear copy-paste of emails sent to other professors (including emails sent to other Inria faculty), and emails that appear to have been generated primarily using an LLM.**
