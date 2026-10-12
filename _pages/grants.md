@@ -15,7 +15,7 @@ Since joining Inria in December 2025, I have acquired the following research gra
 - Competitive young researchers grant, funded by the French National Research Agency (ANR).
 - This project supports my research on disarming dangerous browser extensions to protect the security and privacy of Web users.
 - Duration: 42 months.
-- Total funding: (to come...).
+- Total funding: **322,454€**.
 
 
 ### 2026--2029: IdEx Attractivity Package, Principal Investigator
