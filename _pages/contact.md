@@ -7,16 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-**I ignore and do not respond to unspecific emails and emails written by LLMs.**
+**I ignore and do not respond to unspecific emails and emails that appear to have been generated primarily using an LLM.**
 
 
 ## Prospective Students
 
-If you contact me with regard to open positions, please include your CV and transcript in the email. Be specific regarding why you contact *me*. For example, to what extent are your research interests related to the research topics of my research group?
+If you contact me about an open positions (PhD, postdoc, or internship), please include the following documents in your email:
+- your CV **as a PDF** (please do not send links to your CV; I will not click on them);
+- your transcript **as a PDF**.
+In your email, **explain specifically which aspects of my research interest you and how your background could contribute to the work of the lab**. For example, identify specific project(s) or publication(s) of mine that interest you and explain what you could contribute.
 
-**I will ignore all impersonal emails, e.g., emails that do not include my name or are a clear copy-paste of emails sent to other professors (including emails sent to other Inria faculty), and emails written by LLMs.**
+**I will not respond to generic or impersonal emails, e.g., emails that do not include my name or are a clear copy-paste of emails sent to other professors (including emails sent to other Inria faculty), and emails that appear to have been generated primarily using an LLM.**
 
-PS: adding a PS with the full name of the conference where my last paper was published would definitely bring bonus points.
+PS: adding a PS with the full name of the conference where my last paper was published would certainly catch my attention and increase the likelihood of receiving a response.
 
 
 ## Datasets

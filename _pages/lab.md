@@ -10,6 +10,7 @@ author_profile: true
 [Nataliia Bielova](https://www-sop.inria.fr/members/Nataliia.Bielova/) and I are creating a new team at the Inria Centre at Universite Cote d'Azur.
 
 **I am currently looking for a PhD student (start date: anytime in 2027) and a Postdoctoral researcher (start date: anytime in 2027 or 2028).**
+**Please read the guidelines provided [here](https://aurore54f.github.io/contact/) before contacting me about any open positions (PhD, postdoc, or internship).** I consistently ignore and do not respond to unspecific emails and emails that appear to have been generated primarily using an LLM.
 
 
 # Student Advising and Mentoring (current and past)

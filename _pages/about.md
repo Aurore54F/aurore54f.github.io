@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **I am currently looking for a PhD student (start date: anytime in 2027) and a Postdoctoral researcher (start date: anytime in 2027 or 2028).**
+**Please read the guidelines provided [here](https://aurore54f.github.io/contact/) before contacting me about any open positions (PhD, postdoc, or internship).** I consistently ignore and do not respond to unspecific emails and emails that appear to have been generated primarily using an LLM.
 
 
 I am a Tenured Researcher at the [Inria Centre at Universite Cote d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (France), since December 2025.
