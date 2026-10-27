@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently looking for a PhD student (start date: anytime in 2027) and a Postdoctoral researcher (start date: anytime in 2027 or 2028).**
+📣 **I am currently looking for a PhD student (start date: anytime in 2027) and a Postdoctoral researcher (start date: anytime in 2027 or 2028).**
+**More information about the PhD position and application form are available on the [Inria portal](https://recrutement.inria.fr/public/classic/en/offres/2026-10612) (no application over email).**
 **Please read the guidelines provided [here](https://aurore54f.github.io/contact/) before contacting me about any open positions (PhD, postdoc, or internship).** I consistently ignore and do not respond to unspecific emails and emails that appear to have been generated primarily using an LLM.
+
+🎥 If you would like to learn more about our research on browser extension security, you can watch this [presentation](https://www.youtube.com/watch?v=MnxuXjtuQ3c).
 
 
 I am a Tenured Researcher at the [Inria Centre at Universite Cote d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) (France), since December 2025.
@@ -26,7 +29,7 @@ I frequently deliver invited talks and keynotes both at academic and non-academi
 What's New?
 ======
 - _Jul 2026_: My project EXPELLIARMUS, on disarming dangerous browser extensions to protect the security and privacy of Web users, has been awarded an [ANR JCJC](https://anr.fr/fileadmin/aap/2026/selection/aapg-2026-selection.pdf) grant (322,454€) from the French National Research Agency!
-- _Jun 2026_: I just came back from my "Tour de France" (with a small Luxembourg detour), where I gave several keynotes (at [RESSI 2026](https://ressi2026.sciencesconf.org/program) and [APVP 2026](https://apvp2026.sciencesconf.org/program)) and talk (at the Plugin Seminar) on the security and privacy risks of browser extensions. The slides are available on [my website](https://aurore54f.github.io/publications/). And the journey continues: I will be giving a virtual talk next week, at [Seminar@SystemX](https://www.irt-systemx.fr/evenement/seminarsystemx-anime-par-aurore-fass/) on June 25.
+- _Jun 2026_: I just came back from my "Tour de France" (with a small Luxembourg detour), where I gave several keynotes (at [RESSI 2026](https://ressi2026.sciencesconf.org/program) and [APVP 2026](https://apvp2026.sciencesconf.org/program)) and talk (at the Plugin Seminar) on the security and privacy risks of browser extensions. The slides are available on [my website](https://aurore54f.github.io/publications/) and a recording is available on [YouTube](https://www.youtube.com/watch?v=MnxuXjtuQ3c). And the journey continues: I will be giving a virtual talk next week, at [Seminar@SystemX](https://www.irt-systemx.fr/evenement/seminarsystemx-anime-par-aurore-fass/) on June 25.
 - _May 2026_: Thrilled to announce that I am serving as Vice Chair for [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)!
 - _Dec 2025_: For the third time this year, I am very excited to have received a Distinguished Reviewer Award, this time at ACSAC 2025! I was in three PCs in 2025 (USENIX Security, ACM CCS, and ACSAC), and I got a Top Reviewer Award for each!
 - _Dec 2025_: Incredibly excited to share that I have joined the [Inria Centre at Universite Cote d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) as a Tenured Researcher! I will continue my research on Web Security & Privacy, with a specific focus on JavaScript (in)security and browser extensions. At Inria, I will be creating a new research team together with [Nataliia Bielova](https://www-sop.inria.fr/members/Nataliia.Bielova/).

@@ -12,6 +12,8 @@ author_profile: true
 
 ## Prospective Students
 
+If you want to apply for the PhD position on detecting dangerous browser extensions, please directly apply on the [Inria portal](https://recrutement.inria.fr/public/classic/en/offres/2026-10612) (no application over email).
+
 If you contact me about an open positions (PhD, postdoc, or internship), please include the following documents in your email:
 - your CV **as a PDF** (please do not send links to your CV; I will not click on them);
 - your transcript **as a PDF**.
